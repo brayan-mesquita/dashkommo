@@ -17,9 +17,9 @@ st.set_page_config(page_title="Inteligência de Vendas - Febracis", layout="wide
 # Em um cenário real, as senhas devem ser hashes.
 credentials = {
     "usernames": {
-        "admin": {
+        "Febracis": {
             "name": "Gestor Febracis",
-            "password": "febracis2026" # Em produção, use hashes!
+            "password": "tempoderquemage" 
         }
     }
 }
