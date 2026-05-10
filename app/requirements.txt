@@ -5,3 +5,5 @@ requests
 schedule
 sqlalchemy
 psycopg2-binary
+streamlit-authenticator
+PyYAML
