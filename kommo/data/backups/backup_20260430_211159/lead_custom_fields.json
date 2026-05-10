@@ -1,0 +1,930 @@
+{
+  "path": "/api/v4/leads/custom_fields",
+  "embedded_key": "custom_fields",
+  "pages_fetched": 1,
+  "records": 15,
+  "data": [
+    {
+      "id": 1262034,
+      "name": "utm_content",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_CONTENT",
+      "sort": 507,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262034?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262036,
+      "name": "utm_medium",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_MEDIUM",
+      "sort": 508,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262036?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262038,
+      "name": "utm_campaign",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_CAMPAIGN",
+      "sort": 509,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262038?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262040,
+      "name": "utm_source",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_SOURCE",
+      "sort": 510,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262040?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262042,
+      "name": "utm_term",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_TERM",
+      "sort": 511,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262042?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262044,
+      "name": "utm_referrer",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "UTM_REFERRER",
+      "sort": 512,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262044?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262046,
+      "name": "referrer",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "REFERRER",
+      "sort": 513,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262046?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262048,
+      "name": "gclientid",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "GCLIENTID",
+      "sort": 514,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262048?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262050,
+      "name": "gclid",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "GCLID",
+      "sort": 515,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262050?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 1262052,
+      "name": "fbclid",
+      "type": "tracking_data",
+      "account_id": 35477775,
+      "code": "FBCLID",
+      "sort": 516,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": "statistic",
+      "required_statuses": [],
+      "is_deletable": false,
+      "is_predefined": true,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262052?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 2978408,
+      "name": "TREINA. REALIZADOS",
+      "type": "multiselect",
+      "account_id": 35477775,
+      "code": null,
+      "sort": 505,
+      "is_api_only": false,
+      "enums": [
+        {
+          "id": 2352204,
+          "value": "01 - FCIS",
+          "sort": 500
+        },
+        {
+          "id": 2352206,
+          "value": "02 - ML5",
+          "sort": 1
+        },
+        {
+          "id": 2352208,
+          "value": "03 - BHP",
+          "sort": 2
+        },
+        {
+          "id": 2352210,
+          "value": "04 - MASTER COACHING",
+          "sort": 3
+        },
+        {
+          "id": 2352212,
+          "value": "05 - FOP",
+          "sort": 4
+        },
+        {
+          "id": 2352214,
+          "value": "06 - FGPCH",
+          "sort": 5
+        },
+        {
+          "id": 2352216,
+          "value": "07 - IF",
+          "sort": 6
+        },
+        {
+          "id": 2352218,
+          "value": "08 - MCIS",
+          "sort": 7
+        },
+        {
+          "id": 2352220,
+          "value": "09 -",
+          "sort": 8
+        }
+      ],
+      "group_id": null,
+      "required_statuses": [],
+      "is_deletable": true,
+      "is_predefined": false,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/2978408?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 2978758,
+      "name": "Data do Treinamento",
+      "type": "date_time",
+      "account_id": 35477775,
+      "code": null,
+      "sort": 502,
+      "is_api_only": false,
+      "enums": null,
+      "group_id": null,
+      "required_statuses": [],
+      "is_deletable": true,
+      "is_predefined": false,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [
+        34570439
+      ],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/2978758?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 3399140,
+      "name": "SEXO",
+      "type": "select",
+      "account_id": 35477775,
+      "code": null,
+      "sort": 503,
+      "is_api_only": false,
+      "enums": [
+        {
+          "id": 2683512,
+          "value": "MASCULINO",
+          "sort": 500
+        },
+        {
+          "id": 2683514,
+          "value": "FEMININO",
+          "sort": 1
+        },
+        {
+          "id": 2684552,
+          "value": "NÃO DEFINIDO",
+          "sort": 2
+        }
+      ],
+      "group_id": null,
+      "required_statuses": [],
+      "is_deletable": true,
+      "is_predefined": false,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3399140?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 3864046,
+      "name": "Resumo",
+      "type": "textarea",
+      "account_id": 35477775,
+      "code": null,
+      "sort": 504,
+      "is_api_only": false,
+      "enums": null,
+      "group_id": null,
+      "required_statuses": [],
+      "is_deletable": true,
+      "is_predefined": false,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3864046?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 3877399,
+      "name": "Upcoming Appointment",
+      "type": "date_time",
+      "account_id": 35477775,
+      "code": "CF_SCHEDULER_UPCOMING_APPOINTMENT",
+      "sort": 501,
+      "is_api_only": true,
+      "enums": null,
+      "group_id": null,
+      "required_statuses": [],
+      "is_deletable": true,
+      "is_predefined": false,
+      "entity_type": "leads",
+      "tracking_callback": null,
+      "remind": null,
+      "triggers": [],
+      "currency": null,
+      "hidden_statuses": [],
+      "chained_lists": null,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3877399?limit=250&page=1"
+        }
+      }
+    }
+  ],
+  "last_page": {
+    "_total_items": 15,
+    "_page": 1,
+    "_page_count": 1,
+    "_links": {
+      "self": {
+        "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields?limit=250&page=1"
+      }
+    },
+    "_embedded": {
+      "custom_fields": [
+        {
+          "id": 1262034,
+          "name": "utm_content",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_CONTENT",
+          "sort": 507,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262034?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262036,
+          "name": "utm_medium",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_MEDIUM",
+          "sort": 508,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262036?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262038,
+          "name": "utm_campaign",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_CAMPAIGN",
+          "sort": 509,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262038?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262040,
+          "name": "utm_source",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_SOURCE",
+          "sort": 510,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262040?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262042,
+          "name": "utm_term",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_TERM",
+          "sort": 511,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262042?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262044,
+          "name": "utm_referrer",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "UTM_REFERRER",
+          "sort": 512,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262044?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262046,
+          "name": "referrer",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "REFERRER",
+          "sort": 513,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262046?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262048,
+          "name": "gclientid",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "GCLIENTID",
+          "sort": 514,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262048?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262050,
+          "name": "gclid",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "GCLID",
+          "sort": 515,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262050?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 1262052,
+          "name": "fbclid",
+          "type": "tracking_data",
+          "account_id": 35477775,
+          "code": "FBCLID",
+          "sort": 516,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": "statistic",
+          "required_statuses": [],
+          "is_deletable": false,
+          "is_predefined": true,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/1262052?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 2978408,
+          "name": "TREINA. REALIZADOS",
+          "type": "multiselect",
+          "account_id": 35477775,
+          "code": null,
+          "sort": 505,
+          "is_api_only": false,
+          "enums": [
+            {
+              "id": 2352204,
+              "value": "01 - FCIS",
+              "sort": 500
+            },
+            {
+              "id": 2352206,
+              "value": "02 - ML5",
+              "sort": 1
+            },
+            {
+              "id": 2352208,
+              "value": "03 - BHP",
+              "sort": 2
+            },
+            {
+              "id": 2352210,
+              "value": "04 - MASTER COACHING",
+              "sort": 3
+            },
+            {
+              "id": 2352212,
+              "value": "05 - FOP",
+              "sort": 4
+            },
+            {
+              "id": 2352214,
+              "value": "06 - FGPCH",
+              "sort": 5
+            },
+            {
+              "id": 2352216,
+              "value": "07 - IF",
+              "sort": 6
+            },
+            {
+              "id": 2352218,
+              "value": "08 - MCIS",
+              "sort": 7
+            },
+            {
+              "id": 2352220,
+              "value": "09 -",
+              "sort": 8
+            }
+          ],
+          "group_id": null,
+          "required_statuses": [],
+          "is_deletable": true,
+          "is_predefined": false,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/2978408?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 2978758,
+          "name": "Data do Treinamento",
+          "type": "date_time",
+          "account_id": 35477775,
+          "code": null,
+          "sort": 502,
+          "is_api_only": false,
+          "enums": null,
+          "group_id": null,
+          "required_statuses": [],
+          "is_deletable": true,
+          "is_predefined": false,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [
+            34570439
+          ],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/2978758?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 3399140,
+          "name": "SEXO",
+          "type": "select",
+          "account_id": 35477775,
+          "code": null,
+          "sort": 503,
+          "is_api_only": false,
+          "enums": [
+            {
+              "id": 2683512,
+              "value": "MASCULINO",
+              "sort": 500
+            },
+            {
+              "id": 2683514,
+              "value": "FEMININO",
+              "sort": 1
+            },
+            {
+              "id": 2684552,
+              "value": "NÃO DEFINIDO",
+              "sort": 2
+            }
+          ],
+          "group_id": null,
+          "required_statuses": [],
+          "is_deletable": true,
+          "is_predefined": false,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3399140?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 3864046,
+          "name": "Resumo",
+          "type": "textarea",
+          "account_id": 35477775,
+          "code": null,
+          "sort": 504,
+          "is_api_only": false,
+          "enums": null,
+          "group_id": null,
+          "required_statuses": [],
+          "is_deletable": true,
+          "is_predefined": false,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3864046?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 3877399,
+          "name": "Upcoming Appointment",
+          "type": "date_time",
+          "account_id": 35477775,
+          "code": "CF_SCHEDULER_UPCOMING_APPOINTMENT",
+          "sort": 501,
+          "is_api_only": true,
+          "enums": null,
+          "group_id": null,
+          "required_statuses": [],
+          "is_deletable": true,
+          "is_predefined": false,
+          "entity_type": "leads",
+          "tracking_callback": null,
+          "remind": null,
+          "triggers": [],
+          "currency": null,
+          "hidden_statuses": [],
+          "chained_lists": null,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/custom_fields/3877399?limit=250&page=1"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

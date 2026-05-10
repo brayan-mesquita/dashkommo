@@ -1,0 +1,43 @@
+{
+  "path": "/api/v4/webhooks",
+  "embedded_key": "webhooks",
+  "pages_fetched": 1,
+  "records": 1,
+  "data": [
+    {
+      "id": 47167732,
+      "destination": "https://scheduler.kommo.com/api/v1/external/hooks/crm",
+      "created_at": 1775596891,
+      "updated_at": 1775596891,
+      "account_id": 35477775,
+      "created_by": 13168515,
+      "sort": 1,
+      "disabled": false,
+      "settings": [
+        "delete_task",
+        "update_task"
+      ]
+    }
+  ],
+  "last_page": {
+    "_total_items": 1,
+    "_embedded": {
+      "webhooks": [
+        {
+          "id": 47167732,
+          "destination": "https://scheduler.kommo.com/api/v1/external/hooks/crm",
+          "created_at": 1775596891,
+          "updated_at": 1775596891,
+          "account_id": 35477775,
+          "created_by": 13168515,
+          "sort": 1,
+          "disabled": false,
+          "settings": [
+            "delete_task",
+            "update_task"
+          ]
+        }
+      ]
+    }
+  }
+}

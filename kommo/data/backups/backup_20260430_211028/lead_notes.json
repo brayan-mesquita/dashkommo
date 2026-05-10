@@ -1,0 +1,4266 @@
+{
+  "path": "/api/v4/leads/notes",
+  "embedded_key": "notes",
+  "pages_fetched": 1,
+  "records": 105,
+  "data": [
+    {
+      "id": 6650745,
+      "entity_id": 47620757,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770736929,
+      "updated_at": 1770736671,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "tem interesse no cis, objeção de tempo."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47620757/notes/6650745?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6650793,
+      "entity_id": 48849835,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770737016,
+      "updated_at": 1770736758,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "sem retorno"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48849835/notes/6650793?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6651487,
+      "entity_id": 48210225,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770738004,
+      "updated_at": 1770737748,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "não tem interesse agora no canal, mas que receber novidades"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48210225/notes/6651487?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6652073,
+      "entity_id": 47981319,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770739092,
+      "updated_at": 1770738835,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "não tem interesse no canal,manter infornado sobre novidades."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47981319/notes/6652073?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6652163,
+      "entity_id": 47683393,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770739254,
+      "updated_at": 1770738996,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "sem retorno, manter informado."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47683393/notes/6652163?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6658793,
+      "entity_id": 49103845,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770748454,
+      "updated_at": 1770748197,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Potencial ed, desejo no MCIS"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49103845/notes/6658793?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6658885,
+      "entity_id": 48089911,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770748547,
+      "updated_at": 1770748290,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "ED nutrir"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48089911/notes/6658885?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6658933,
+      "entity_id": 49172211,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770748622,
+      "updated_at": 1770748364,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "ED nutrir"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49172211/notes/6658933?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6659483,
+      "entity_id": 49157403,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770749421,
+      "updated_at": 1770749165,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "ED não e ativa, nutrir"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49157403/notes/6659483?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6659541,
+      "entity_id": 49155759,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770749500,
+      "updated_at": 1770749246,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "potencial para se torna ed"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49155759/notes/6659541?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6659543,
+      "entity_id": 49155759,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770749502,
+      "updated_at": 1770749246,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "potencial para se torna ed"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49155759/notes/6659543?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6659741,
+      "entity_id": 49024227,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770749781,
+      "updated_at": 1770749524,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Nutrir"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49024227/notes/6659741?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6660493,
+      "entity_id": 48997839,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770750892,
+      "updated_at": 1770750650,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Potencial para de torna ed"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48997839/notes/6660493?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6660555,
+      "entity_id": 48185241,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770750999,
+      "updated_at": 1770750742,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "ed potencial para novo inicio"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48185241/notes/6660555?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6660731,
+      "entity_id": 48099433,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770751274,
+      "updated_at": 1770751017,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "na ligação, pediu para não receber mais mensagem e liação sobre o canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48099433/notes/6660731?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6660823,
+      "entity_id": 48099185,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770751369,
+      "updated_at": 1770751112,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "não demostrou interesse no canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48099185/notes/6660823?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6660909,
+      "entity_id": 48096471,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770751508,
+      "updated_at": 1770751252,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "não demostrou interesse no canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48096471/notes/6660909?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6661009,
+      "entity_id": 48084193,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770751695,
+      "updated_at": 1770751438,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "não teve interesse no canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48084193/notes/6661009?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6661167,
+      "entity_id": 47294491,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770751887,
+      "updated_at": 1770751631,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "tem interesse em se manter informado."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47294491/notes/6661167?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6661953,
+      "entity_id": 41025934,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753244,
+      "updated_at": 1770752987,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "ED potencia novo inicio."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/41025934/notes/6661953?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662015,
+      "entity_id": 47557761,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753325,
+      "updated_at": 1770753067,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Potencial novo inicio."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47557761/notes/6662015?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662095,
+      "entity_id": 40966208,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753412,
+      "updated_at": 1770753155,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Potencial novo inicio."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40966208/notes/6662095?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662153,
+      "entity_id": 38388170,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753507,
+      "updated_at": 1770753249,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Potencial novo inicio."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/38388170/notes/6662153?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662215,
+      "entity_id": 48083917,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753637,
+      "updated_at": 1770753381,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Deseja ver a mãe no mcis"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48083917/notes/6662215?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662355,
+      "entity_id": 47288955,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753780,
+      "updated_at": 1770753523,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "manter por dentro das novidades."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47288955/notes/6662355?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6662407,
+      "entity_id": 40949132,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770753850,
+      "updated_at": 1770753594,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Não tem interesse no canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40949132/notes/6662407?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6663083,
+      "entity_id": 40858428,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770754032,
+      "updated_at": 1770753776,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Não tem interessen no canal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40858428/notes/6663083?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6663419,
+      "entity_id": 40857926,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770754501,
+      "updated_at": 1770754244,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "SEM RETORNO"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40857926/notes/6663419?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6663851,
+      "entity_id": 40807634,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770754794,
+      "updated_at": 1770754537,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "SEM RETORNO"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40807634/notes/6663851?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6711271,
+      "entity_id": 41025934,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770836530,
+      "updated_at": 1770836272,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "NEGOCIAÇÃO 2 VIDAS"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/41025934/notes/6711271?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7002615,
+      "entity_id": 50392371,
+      "created_by": 14206647,
+      "updated_by": 14206647,
+      "created_at": 1771615929,
+      "updated_at": 1771958471,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ana me ligou novamente no dia 20/02.\n\nConversou longamente, trazendo questões pessoais. Relatou que a separação é recente e que está conduzindo o próprio divórcio. Informou que o ex-marido, enfermeiro, a traiu; segundo ela, a família evangélica teria acobertado a situação. Tem duas filhas, que estão bem. Atualmente está em um novo relacionamento.\n\nDisse que sua principal dificuldade é se reerguer profissionalmente e retomar a atuação como advogada. Demonstrou interesse em palestrar, especialmente sobre temas relacionados a mulheres. Prestou prova para juiz e foi aprovada na primeira fase, mas não realizou a segunda etapa por limitações financeiras. Comentou que investiu seus recursos na construção da casa.\n\nMencionou ainda que cursava Psicologia, ocasião em que sofreu uma agressão no estacionamento da faculdade e se sentiu humilhada no atendimento na delegacia.\n\nManifestou forte desejo de participar da palestra junto com uma amiga."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50392371/notes/7002615?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6329191,
+      "entity_id": 48215443,
+      "created_by": 0,
+      "updated_by": 14138203,
+      "created_at": 1769777850,
+      "updated_at": 1772050832,
+      "responsible_user_id": 14206467,
+      "group_id": 0,
+      "note_type": "ai_result",
+      "params": {
+        "text": "Efson Rodrigues entrou em contato para tratar da participação no Programa de Alta Performance 2026 da Febracis Porto Velho. Ele informou que está focado na execução dos projetos para 2026 e que, no momento, não poderá participar do treinamento previsto para dezembro, adiando sua participação para o segundo semestre. Ficou acordado manter o contato para futuras oportunidades. Não há perguntas em aberto. Recomenda-se agendar uma tarefa para acompanhamento no segundo semestre de 2026.",
+        "answer_id": "5f3f14ba-47f8-4ca2-b7eb-9a78267d8e67",
+        "talk_id": 256,
+        "is_error": false
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48215443/notes/6329191?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7463005,
+      "entity_id": 50392371,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772632966,
+      "updated_at": 1772632968,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Ana. Ela me informou que agora está oficialmente divorciada. Está fazendo alguns cursos online do Paulo Vieira e, no momento, precisa montar uma reserva de emergência para poder comprar o curso Método CIS. Porém, ela se interessou pela palestra e encaminhei ambas as opções para ela."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50392371/notes/7463005?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7472401,
+      "entity_id": 52502245,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772650491,
+      "updated_at": 1772650492,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Liguei, mas aparentemente quem me atendeu foi uma criança e a ligação foi desligada."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52502245/notes/7472401?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7488505,
+      "entity_id": 52609163,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772661726,
+      "updated_at": 1772661728,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Conversei com o Rômulo, que já conhece o trabalho do Paulo Vieira por meio de um amigo que fez o curso e teve ótimos resultados. Ele já participou de outras imersões, mas nenhuma da Febracis. Combinamos de nos falar amanhã para alinhar o pagamento, já que ele tem interesse em adquirir o curso para ele e para a esposa."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52609163/notes/7488505?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7506119,
+      "entity_id": 48835615,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1772716709,
+      "updated_at": 1772720656,
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Cliente esta com uma negociação com um casal."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48835615/notes/7506119?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7544051,
+      "entity_id": 52877829,
+      "created_by": 14830392,
+      "updated_by": 14830392,
+      "created_at": 1772808294,
+      "updated_at": 1772808294,
+      "responsible_user_id": 14830392,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Fechar hoje o CIS - Está vendo agenda dela da Pós"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52877829/notes/7544051?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7544177,
+      "entity_id": 52878129,
+      "created_by": 14830392,
+      "updated_by": 14830392,
+      "created_at": 1772808524,
+      "updated_at": 1772808524,
+      "responsible_user_id": 14830392,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Fechar hoje o CIS Presencial Bronze"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52878129/notes/7544177?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7610167,
+      "entity_id": 53092607,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773080911,
+      "updated_at": 1773080913,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com o Regis por ligação. No momento, ele está focado no desenvolvimento profissional.\n\nEle se formou recentemente em Biomedicina e também possui formação em Administração, curso que fez em função do trabalho. Atualmente, é servidor público e percebe uma grande limitação na função que exerce, pois não enxerga muitas possibilidades de crescimento.\n\nDurante a conversa, comentou que pensa em empreender na área de estética, mas ainda tem certo receio, já que entende que o público é majoritariamente feminino e teme que possam surgir ruídos ou interpretações equivocadas nesse contexto.\n\nRegis também mencionou que está enfrentando um problema bancário, o que o impede de realizar o investimento neste momento.\n\nMesmo assim, combinamos que ele virá até a nossa unidade na quarta-feira, após as 15h, para conversarmos com mais calma."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53092607/notes/7610167?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7653738,
+      "entity_id": 52247049,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773165000,
+      "updated_at": 1773166517,
+      "responsible_user_id": 14206647,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Flávia. Ela informou que está buscando o Método CIS para o marido. Conheceu o treinamento através de uma blogueira nas redes sociais que participou do método.\n\nHoje, ela relata que a vida familiar e profissional está indo bem. Porém, mencionou que sofre com ansiedade e sente que isso acaba impactando o corpo dela.\n\nComentou também que se considera uma esposa mais submissa, que segue princípios cristãos. Na empresa, relatou que os colaboradores gostam muito dela.\n\nO interesse dela no Método CIS é principalmente para o marido, pois descreveu que ele é uma pessoa muito fechada, tanto no relacionamento quanto na forma de lidar com as pessoas. Segundo ela, isso acaba limitando o crescimento dela e faz com que hoje ela sinta dificuldade em performar melhor. Também comentou que os colaboradores têm um certo receio e respeito dele justamente por ele ser mais fechado.\n\nEla está em dúvida sobre participar presencialmente, pois estará buscando a filha em Belo Horizonte, que está vindo dos Estados Unidos. A filha está grávida, o que tem gerado muitos gastos para ela neste momento.\n\nMesmo assim, comentou que “Deus sabe o que faz”.\n\nTambém mencionou que achou o valor da edição de Vilhena alto por não contar com a presença do Paulo Vieira.\n\nFicou combinado que eu passaria o caso para o nosso especialista dar continuidade no atendimento.\n\nDados:\n\nNome: Jhemens Ragner Oliveira de Menezes\nCargo: Sócio\nEmpresa: JF Auto Center\nCNPJ: 19.395.036/0001-40\nInstagram da empresa: @jfautocenter_vha\n\nInstagram:\n@jhemensragner\n@flavia_ciqueira"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52247049/notes/7653738?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7655420,
+      "entity_id": 52511697,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773167174,
+      "updated_at": 1773167175,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Akila. Ela informou que a filha passou mal na escola e que está indo buscá-la. Disse que me retorna pelo WhatsApp."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52511697/notes/7655420?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7656150,
+      "entity_id": 52526447,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773168069,
+      "updated_at": 1773168070,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com ele, mas estava em uma serraria e havia muito barulho. Ele pediu para eu ligar novamente quando voltar para o sítio."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52526447/notes/7656150?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7658104,
+      "entity_id": 52627019,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773170489,
+      "updated_at": 1773170491,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "ver seu pai, pediu para mim entrar em contato sexta feira \n\nFalei com a Hilda. Ela estava arrumando as malas para viajar e visitar o pai. Pediu para eu entrar em contato na sexta-feira."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52627019/notes/7658104?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7658426,
+      "entity_id": 52725805,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773170835,
+      "updated_at": 1773170836,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Israellen Thamara. Ela estava um pouco apurada, como ela mesma disse. Combinamos de eu ligar para ela amanhã."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7658426?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7692171,
+      "entity_id": 53458433,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773242583,
+      "updated_at": 1773242585,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com o José. Hoje ele é empreendedor, tem uma loja em Humaitá e também uma filial aqui em Porto Velho, na Carlos Gomes.\n\nPerguntei o nome da empresa, mas ele acabou não informando. Atualmente ele possui cerca de 20 colaboradores.\n\nO que mais tem impactado ele hoje é a questão emocional, ligada à família, principalmente quando pessoas saem da vida dele. Ele comentou que acaba se apegando muito e, quando isso acontece, isso interfere diretamente no desempenho dele dentro da empresa.\n\nAtualmente ele cuida da parte financeira do negócio. Já conseguiu se afastar do operacional, porém relatou que essa área não está tão saudável, e que chega a perder noites de sono quando surgem problemas, o que acaba impactando diretamente a vida profissional dele.\n\nPara ele, o treinamento faz sentido e ele informou que pretende participar em Porto Velho.\n\nFicou combinado de eu retornar o contato com ele na terça-feira, às 11h. Ele também comentou que todo sábado vem a Porto Velho e informou que pretende passar em nossa unidade para conhecer e fazer uma visita."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53458433/notes/7692171?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7697945,
+      "entity_id": 53342904,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773251752,
+      "updated_at": 1773251753,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Kamyla no final da tarde. Ela comentou que, neste momento, o foco dela está no desenvolvimento profissional. Atualmente possui dois negócios: uma loja de roupas e uma lanchonete.\n\nRelatou que, por algumas questões, houve uma queda em seus negócios e acabou recebendo críticas, inclusive do marido. Hoje ela afirma que os negócios estão indo bem, mas entende que ainda precisa melhorar.\n\nFicou combinado de eu entrar em contato com ela hoje para verificar onde ela pretende participar do treinamento: se em Porto Velho ou em BH."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53342904/notes/7697945?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7699625,
+      "entity_id": 53477049,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773253867,
+      "updated_at": 1773253869,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com Maria por telefone. Ela informou que hoje trabalha na Vitória Gesso e que se sente estagnada. Disse que a questão financeira não está bem e que isso impacta sua vida.\n\nComentou que acompanha algumas coisas do Paulo Vieira e também alguns blogueiros que já postaram sobre o método. No momento, achou o valor alto para a realidade dela.\n\nConvidei para vir conhecer nossa unidade e ofereci o livro O Poder da Ação."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53477049/notes/7699625?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7700083,
+      "entity_id": 53478531,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773254668,
+      "updated_at": 1773254671,
+      "responsible_user_id": 14836748,
+      "group_id": -1,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Karina por telefone. Ela não trouxe nenhuma dor específica e disse que está tudo bem no momento. Informou que já conhece a nossa unidade e que inclusive já esteve aqui. Comentou que gostaria de fazer o treinamento junto com o marido. Disse também que o valor e as datas estão dentro do orçamento dela e que me dará um retorno na sexta-feira."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53478531/notes/7700083?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7704365,
+      "entity_id": 53348060,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773260068,
+      "updated_at": 1773260070,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Conversei com ela. Possui duas filhas, uma de 13 anos e outra de 18. A de 13 é mais independente; a de 18 ainda apresenta algumas limitações e certa dependência.\n\nAtualmente, trabalha na área da saúde e também na área estética, atuando como cabeleireira.\n\nEla busca participar do treinamento junto com a filha de 18 anos. Informou que, durante um período, enfrentou dificuldades financeiras, com algumas dívidas e situações que agravaram esse cenário. No entanto, relatou que hoje a situação já está melhorando.\n\nSegundo ela, os valores atualmente estão tranquilos dentro da sua realidade financeira. Ficou combinado que o closer entrará em contato para apresentar os valores do Método CIS presencial."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53348060/notes/7704365?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7753529,
+      "entity_id": 53614891,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773336474,
+      "updated_at": 1773336478,
+      "responsible_user_id": 14836748,
+      "group_id": -1,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Ana Paula. Ela informou que está buscando o Método CIS por conta do casamento, que atualmente não vai bem. Disse que em janeiro passaram pela pior crise, e que agora a situação está mais equilibrada.\n\nEla possui dois filhos, um casal: um de 8 anos e outro de 5 anos. O principal motivo da busca pelo treinamento é melhorar o casamento.\n\nEla comentou que consegue participar, porém acredita que o marido provavelmente não participará. Ficou combinado de marcarmos um dia para que ela venha conhecer a nossa unidade."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53614891/notes/7753529?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7755891,
+      "entity_id": 52386904,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773339383,
+      "updated_at": 1773339385,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Tentei ligar novamente, contudo, não obtive sucesso."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52386904/notes/7755891?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7760185,
+      "entity_id": 52686821,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773343679,
+      "updated_at": 1773343682,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Conversei com a Thais hoje. Ela é autônoma e informou que, para ela, será melhor participar em Porto Velho. Disse que poderá realizar sua inscrição no dia 19. Marcamos também uma visita: ela virá aqui na segunda-feira."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52686821/notes/7760185?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7761371,
+      "entity_id": 52793001,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773344839,
+      "updated_at": 1773344841,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Silvana. Ela estava no hospital. Quem entrou em contato foi o filho dela, Marlom. Ele já é maior de idade, mas aparentemente não possui celular."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52793001/notes/7761371?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7761857,
+      "entity_id": 52725805,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773345356,
+      "updated_at": 1773345359,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Israellen informou que estava muito ocupada e que vai viajar. Ela retorna no dia 23 e pediu para que eu envie o conteúdo para ela pelo WhatsApp mesmo."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7761857?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7762029,
+      "entity_id": 52725805,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773345501,
+      "updated_at": 1773345504,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Oi, Israellen. Conforme combinamos, estou te enviando os detalhes da próxima turma do Método CIS.\n\n Datas: 16, 17 e 18 de abril\n⏰ Horários:\n• Dia 16 – 09h às 00h30\n• Dia 17 – 09h às 00h30\n• Dia 18 – 09h às 06h da manhã\n\nÉ uma imersão intensa de inteligência emocional, desenvolvimento pessoal e reprogramação de crenças, conduzida pela Febracis e idealizada pelo Paulo Vieira. \n\nSCRIPT MÉTODO CIS .docx (1)\n\nConsegue verificar se essas datas e horários se encaixam na sua agenda? Se fizer sentido para você, te explico os próximos passos para garantir sua participação."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7762029?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7763541,
+      "entity_id": 52803665,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773347144,
+      "updated_at": 1773347146,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com Murilo por ligação. Informou que hoje o objetivo dele é alta performance. Gostou do valor, porém precisa conversar antes com a esposa, que é advogada e contadora. Atualmente, ele é empresário."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52803665/notes/7763541?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7899813,
+      "entity_id": 54030761,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773670425,
+      "updated_at": 1773670426,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Conceição; ela é servidora pública e estava doente no momento da ligação. Ela busca o Método CIS para o marido, que atualmente trabalha com consultoria ambiental, visando a uma melhora no desempenho dele, mas ela também pretende fazer o treinamento. Sobre os valores, ela considerou adequados e agendamos uma reunião para o dia 26."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54030761/notes/7899813?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7902311,
+      "entity_id": 53878773,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773674836,
+      "updated_at": 1773674837,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Jéssica. Ela comentou que tem buscado uma mudança de vida. Tem um filho autista nível 1 e relatou que enfrenta muitas dificuldades, principalmente com julgamentos.\n\nEla acredita que carrega algumas crenças que foram implantadas na infância, principalmente pela relação com o pai, e sente que isso ainda impacta sua vida hoje. Por isso, está buscando esse processo de mudança.\n\nFicou combinado de eu ligar para ela à tarde para ajudá-la a preencher o cadastro no link de inscrição."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53878773/notes/7902311?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7909495,
+      "entity_id": 53453293,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773683961,
+      "updated_at": 1773683962,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Tentei ligar, mas não atendeu."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53453293/notes/7909495?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7909623,
+      "entity_id": 53450539,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773684109,
+      "updated_at": 1773684110,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Tentei ligar, mas não atendeu."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53450539/notes/7909623?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7951709,
+      "entity_id": 54040833,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773756903,
+      "updated_at": 1773756903,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54040833/notes/7951709?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7951829,
+      "entity_id": 54040591,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773757018,
+      "updated_at": 1773757018,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54040591/notes/7951829?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7951927,
+      "entity_id": 54035403,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773757088,
+      "updated_at": 1773757088,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54035403/notes/7951927?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7952037,
+      "entity_id": 54027495,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773757196,
+      "updated_at": 1773757195,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54027495/notes/7952037?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7952403,
+      "entity_id": 54008833,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773757641,
+      "updated_at": 1773757641,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Fabiane hoje. A principal dor relatada é dificuldade na tomada de decisão, não consegue decidir de forma firme e coerente. Já abriu um negócio anteriormente, mas encerrou por conta dessas dificuldades.\nPediu para retornar a ligação mais tarde, pois estava em horário de trabalho. Atualmente trabalha em uma concessionária."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54008833/notes/7952403?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7953017,
+      "entity_id": 53999763,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773758229,
+      "updated_at": 1773758229,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53999763/notes/7953017?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7953157,
+      "entity_id": 53995705,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773758354,
+      "updated_at": 1773758355,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53995705/notes/7953157?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7953263,
+      "entity_id": 53920593,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773758520,
+      "updated_at": 1773758520,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53920593/notes/7953263?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7953343,
+      "entity_id": 53913953,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773758575,
+      "updated_at": 1773758576,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53913953/notes/7953343?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7953407,
+      "entity_id": 53912245,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773758658,
+      "updated_at": 1773758659,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53912245/notes/7953407?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7954089,
+      "entity_id": 53889057,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773759305,
+      "updated_at": 1773759307,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53889057/notes/7954089?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7955669,
+      "entity_id": 53885847,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773760937,
+      "updated_at": 1773760937,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53885847/notes/7955669?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7955871,
+      "entity_id": 53875787,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773761215,
+      "updated_at": 1773761215,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53875787/notes/7955871?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7955957,
+      "entity_id": 53507779,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773761362,
+      "updated_at": 1773761362,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Tentei ligar, mas não atendeu."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53507779/notes/7955957?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 2021892,
+      "entity_id": 20154614,
+      "created_by": 14206647,
+      "updated_by": 14964000,
+      "created_at": 1764014412,
+      "updated_at": 1773761427,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "geolocation",
+      "params": {
+        "text": "Prefere método à vista",
+        "address": "R. Emil Gorayeb, 3566 - São João Bosco, Porto Velho - RO, 76803-728, Brasil, Rondônia",
+        "longitude": -63.90041089999999,
+        "latitude": -8.7500802
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/20154614/notes/2021892?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 2098224,
+      "entity_id": 20813770,
+      "created_by": 14206647,
+      "updated_by": 14964000,
+      "created_at": 1764095343,
+      "updated_at": 1773761428,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Já participou de cursos de questão emocional ,gosta de detalhes ,possível objeção de modalidade global ,alto interesse em int emocional.Nao acompanha Paulo Vieira ,mandar vídeos do Paulo Vieira p ela"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/20813770/notes/2098224?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6183019,
+      "entity_id": 48077837,
+      "created_by": 14206647,
+      "updated_by": 14964000,
+      "created_at": 1769541465,
+      "updated_at": 1773761438,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "geolocation",
+      "params": {
+        "text": "Nutrici9nista e masaterapeuta .objeção de horari9",
+        "address": "R. Emil Gorayeb, 3566 - São João Bosco, Porto Velho - RO, 76803-728, Brasil, Rondônia",
+        "longitude": -63.90041089999999,
+        "latitude": -8.7500802
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48077837/notes/6183019?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6342075,
+      "entity_id": 48083225,
+      "created_by": 0,
+      "updated_by": 14964000,
+      "created_at": 1769797649,
+      "updated_at": 1773761438,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "ai_result",
+      "params": {
+        "text": "Guilherme Leonardo entrou em contato em 27 de janeiro de 2026 com uma mensagem inicial, mas não especificou o motivo da consulta. Não houve acordos firmados nem próximos passos definidos até o momento. Também não foram feitas perguntas pendentes ou esclarecimentos solicitados. Recomenda-se agendar uma tarefa para acompanhamento da comunicação em 27 de janeiro de 2026 às 14:21.",
+        "answer_id": "7fbd5882-b4ef-45fd-9e8b-5a12b4bfcf40",
+        "talk_id": 4231,
+        "is_error": false
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48083225/notes/6342075?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6342237,
+      "entity_id": 48082705,
+      "created_by": 0,
+      "updated_by": 14964000,
+      "created_at": 1769797932,
+      "updated_at": 1773761438,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "ai_result",
+      "params": {
+        "text": "Lucineide Lobaque entrou em contato em 27 de janeiro de 2026 com uma saudação e uma pergunta, mas não especificou o motivo da consulta. Não houve acordos firmados nem próximos passos definidos. A dúvida inicial do cliente permanece sem resposta. Recomenda-se agendar uma tarefa para acompanhamento da consulta em 27 de janeiro de 2026 às 14:15.",
+        "answer_id": "4a9d8667-056c-4f43-84e7-2001ec3cea7a",
+        "talk_id": 4229,
+        "is_error": false
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48082705/notes/6342237?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6593687,
+      "entity_id": 48082705,
+      "created_by": 0,
+      "updated_by": 14964000,
+      "created_at": 1770572681,
+      "updated_at": 1773761438,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "ai_result",
+      "params": {
+        "text": "Lucineide Lobaque entrou em contato em 27 de janeiro de 2026 com uma saudação e uma pergunta, sem especificar o motivo da consulta. Não houve acordos firmados nem próximos passos definidos. A dúvida inicial do cliente permanece sem resposta.",
+        "answer_id": "5522cda3-e8be-4321-8d04-e04ce7767215",
+        "talk_id": 4229,
+        "is_error": false
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48082705/notes/6593687?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 6761275,
+      "entity_id": 50033277,
+      "created_by": 14206647,
+      "updated_by": 14964000,
+      "created_at": 1770927812,
+      "updated_at": 1773761440,
+      "responsible_user_id": 14964000,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": ".."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50033277/notes/6761275?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7961209,
+      "entity_id": 53713799,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773767591,
+      "updated_at": 1773767592,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53713799/notes/7961209?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7961279,
+      "entity_id": 53441351,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1773767681,
+      "updated_at": 1773767682,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53441351/notes/7961279?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8181193,
+      "entity_id": 54973911,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774287789,
+      "updated_at": 1774287792,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Joyce. Ela é casada, tem um filho de 4 anos e outro de 15. É bem religiosa, enquanto o marido não tanto. É formada em Contabilidade e atualmente vende alguns produtos de casa, mas está querendo voltar ao mercado de trabalho.\n\nO marido é difícil e não a motiva; tudo o que ela busca fazer, ele diz que não vai dar certo. Ela é do interior e, para ela, será difícil participar, tanto por conta da postura do marido quanto pela questão financeira, já que não trabalha no momento. Ainda assim, disse que vai correr atrás para participar."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54973911/notes/8181193?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8186081,
+      "entity_id": 54935621,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774293583,
+      "updated_at": 1774293586,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Edinalva. Ela já fez o Método CIS, assim como o esposo. Porém, ela entrou em contato para repassar as informações para ele — não entendi muito bem, mas foi isso."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54935621/notes/8186081?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8227707,
+      "entity_id": 53478531,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774374938,
+      "updated_at": 1774374938,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Karina informou que prefere deixar para uma próxima oportunidade, pois o marido gostaria de ver o Paulo Vieira presencialmente.\nTentei contornar a situação, mas não houve abertura no momento. Sem problemas, seguimos acompanhando."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53478531/notes/8227707?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8312457,
+      "entity_id": 54646975,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774469139,
+      "updated_at": 1774469139,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com o Eber. Ele quer fazer o Método CIS presencialmente, mas está aberto a participar de outros eventos na unidade da Febracis."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54646975/notes/8312457?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8317091,
+      "entity_id": 55339907,
+      "created_by": 14642444,
+      "updated_by": 14642444,
+      "created_at": 1774474573,
+      "updated_at": 1774474573,
+      "responsible_user_id": 14642444,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Cris, alguns dos seus convidados para o BHP não vieram?\nQuem não veio, eu preciso dos nomes, por favor."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55339907/notes/8317091?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8350017,
+      "entity_id": 54655821,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774534451,
+      "updated_at": 1774534454,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com o Eli. Ele disse que, por agora, está meio difícil participar com a esposa, mas que irá participar. Informou que se inscreve ainda hoje."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54655821/notes/8350017?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8351337,
+      "entity_id": 54648031,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774535756,
+      "updated_at": 1774535760,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Cléo, que pretende participar do Método CIS na próxima edição, pois no momento está realizando um tratamento ortodôntico."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54648031/notes/8351337?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8367019,
+      "entity_id": 55488387,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774550123,
+      "updated_at": 1774550127,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Gracyelly, falei com ela. Ela não conhece o Paulo Vieira nem nada, mas gostou da opção voltada para o evento LL Network. Já passei o contato dela para a Lorena."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55488387/notes/8367019?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8367135,
+      "entity_id": 55488387,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774550249,
+      "updated_at": 1774550253,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Gracyelly, obrigado pela ligação de hoje!\n\nA Lorena vai entrar em contato com você para te passar mais detalhes do LL Network e te orientar melhor sobre a participação, combinado?\n\nQualquer coisa, sigo por aqui à disposição."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55488387/notes/8367135?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8367839,
+      "entity_id": 55502175,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774550810,
+      "updated_at": 1774550814,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Yasmin, que é de outra cidade. A data do Método CIS vai coincidir com o aniversário da filha dela, então não conseguirá participar. Ela vai deixar para a próxima edição."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55502175/notes/8367839?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8370501,
+      "entity_id": 54649197,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1774554717,
+      "updated_at": 1774554718,
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Rafaela; muito ocupada, pediu-me para lhe mandar mensagem amanhã, por volta das 9 horas da manhã."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54649197/notes/8370501?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 7955743,
+      "entity_id": 53880831,
+      "created_by": 14836748,
+      "updated_by": 14830392,
+      "created_at": 1773761027,
+      "updated_at": 1774624503,
+      "responsible_user_id": 14830392,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Ligação realizada, sem sucesso no contato."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53880831/notes/7955743?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8289523,
+      "entity_id": 54923121,
+      "created_by": 14836748,
+      "updated_by": 14830392,
+      "created_at": 1774446413,
+      "updated_at": 1775080734,
+      "responsible_user_id": 14830392,
+      "group_id": 691116,
+      "note_type": "common",
+      "params": {
+        "text": "Falei com a Amanda, que quer participar do Método CIS em Vilhena. Ela é de Cacoal e pretende participar junto com o marido. Ficou combinado que ela verificará a questão dos valores às 14h. O Marlon, nosso especialista, entrará em contato com ela pelo WhatsApp."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54923121/notes/8289523?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8746545,
+      "entity_id": 55928839,
+      "created_by": 14830388,
+      "updated_by": 14830388,
+      "created_at": 1775596011,
+      "updated_at": 1775596012,
+      "responsible_user_id": 14830388,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Liguei, para ele e falamos sobre sua jornada, ele tem interesse na grande Green. \nEle no tem interesse no FCIS, ML5, MASTER, FOP, IF."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55928839/notes/8746545?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8746581,
+      "entity_id": 56024277,
+      "created_by": 14642444,
+      "updated_by": 14642444,
+      "created_at": 1775596231,
+      "updated_at": 1775596297,
+      "responsible_user_id": 14642444,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Treinamento agendado para ser realizado na REMAX com o treinador Emerson Motta no dia 27.04.2026 às 08h especificamente para os corretores. \nFoi oferecido para ela participar junto com a Marta, o Jota e o Vinícius do work contratação assertiva no dia 14.04.2026.\nA consultora é a Helen Feleol que está negociando o CIS com ela."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56024277/notes/8746581?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8777265,
+      "entity_id": 56551883,
+      "created_by": 14642444,
+      "updated_by": 14642444,
+      "created_at": 1775751490,
+      "updated_at": 1775751491,
+      "responsible_user_id": 14642444,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Cliente informou que a filha pequena clicou sem querer no anúncio mas que ele já fez o Método CIS."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56551883/notes/8777265?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8777373,
+      "entity_id": 56515891,
+      "created_by": 14642444,
+      "updated_by": 14642444,
+      "created_at": 1775751819,
+      "updated_at": 1775751820,
+      "responsible_user_id": 14642444,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "A cliente informou que não conseguirá participar do LL por conta dos atendimentos que já possui agendados mas tem interesse em eventos voltados ao networking e autodesenvolvimento pessoal e profissional."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515891/notes/8777373?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8825509,
+      "entity_id": 56515845,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776089186,
+      "updated_at": 1776089187,
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Conforme o Emerson,  conversou com Júlia, repassei à Neriane.\n\nPrimeira Parcela\n1) R$ 100,00 para dia 10/04/2026 ( via pix)\n2) R$ 100,00 para dia 15/04/2026 (via pix)\n\n3) Valor integral R$ 450 para dia 28/04/2026 ( boleto) \n\nSegunda parcela:\nValor integral: R$ 650,00 para o dia 28/05/2026 (boleto)\n\n\nSegue o acordo realizado exclusivamente para Nerian."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825509?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8825587,
+      "entity_id": 56515845,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776089342,
+      "updated_at": 1776089345,
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "note_type": "attachment",
+      "params": {
+        "is_drive_attachment": true,
+        "text": "Comprovante no valor de 100 - Neriane - Team Coach Life.pdf",
+        "original_name": "Comprovante no valor de 100 - Neriane - Team Coach Life.pdf",
+        "file_uuid": "f27aa43d-24d5-4046-b257-7a07508ed353",
+        "version_uuid": "fb1b717a-747a-4eca-9ef9-4092e8c7cf81",
+        "file_name": "Comprovante_no_valor_de_100_-_Neriane_-_Team_Coach_Life.pdf"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825587?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8825589,
+      "entity_id": 56515845,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776089342,
+      "updated_at": 1776089345,
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Conforme o acordo , foi realizado o pagamento no valor de R$ 100,00 diretamente à Febracis. Comprovante foi envidado para comprovação"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825589?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 8949671,
+      "entity_id": 57085359,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776728063,
+      "updated_at": 1776728065,
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Segue o link da Análise do Paulo ( para realizar fechamento) https://docs.google.com/document/d/1EfC6AFs_z6lQHujsNm8ek3ZBErFpZNtpZMRyv8Wviko/edit?tab=t.2pulksdkawb0\n\no método dele está incompleto sem o FGPC;\n\n&gt;&gt;  ESTRATÉGIA CENTRAL\n\nEle tem:\n✔ Método próprio\n✔ Autoridade\n✔ Confiança no que faz\n\nEntão esquece confronto.\n\n O caminho é INTEGRAÇÃO, não SUBSTITUIÇÃO"
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/57085359/notes/8949671?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 9083819,
+      "entity_id": 57135143,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1777472638,
+      "updated_at": 1777472639,
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "note_type": "common",
+      "params": {
+        "text": "Sobre a empresa: A Osklen é uma marca brasileira de moda contemporânea, fundada em 1989 por Oskar Metsavaht, reconhecida por unir sofisticação, design, sustentabilidade e lifestyle carioca. Pioneira no &quot;novo luxo&quot; ético, utiliza materiais de baixo impacto ambiental, como através do projeto E-Fabrics. A marca possui forte presença internacional e nacional, com foco no estilo casual sofisticado.\n\nSobre a Kelly:  Um leve inclinação aos perfis: Influente e Estável\nTem um filho, é separada do pai da criança."
+      },
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/leads/57135143/notes/9083819?limit=250&page=1"
+        }
+      }
+    }
+  ],
+  "last_page": {
+    "_page": 1,
+    "_links": {
+      "self": {
+        "href": "https://crmfbcpvh.kommo.com/api/v4/leads/notes?limit=250&page=1"
+      }
+    },
+    "_embedded": {
+      "notes": [
+        {
+          "id": 6650745,
+          "entity_id": 47620757,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770736929,
+          "updated_at": 1770736671,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "tem interesse no cis, objeção de tempo."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47620757/notes/6650745?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6650793,
+          "entity_id": 48849835,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770737016,
+          "updated_at": 1770736758,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "sem retorno"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48849835/notes/6650793?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6651487,
+          "entity_id": 48210225,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770738004,
+          "updated_at": 1770737748,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "não tem interesse agora no canal, mas que receber novidades"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48210225/notes/6651487?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6652073,
+          "entity_id": 47981319,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770739092,
+          "updated_at": 1770738835,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "não tem interesse no canal,manter infornado sobre novidades."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47981319/notes/6652073?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6652163,
+          "entity_id": 47683393,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770739254,
+          "updated_at": 1770738996,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "sem retorno, manter informado."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47683393/notes/6652163?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6658793,
+          "entity_id": 49103845,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770748454,
+          "updated_at": 1770748197,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Potencial ed, desejo no MCIS"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49103845/notes/6658793?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6658885,
+          "entity_id": 48089911,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770748547,
+          "updated_at": 1770748290,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "ED nutrir"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48089911/notes/6658885?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6658933,
+          "entity_id": 49172211,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770748622,
+          "updated_at": 1770748364,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "ED nutrir"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49172211/notes/6658933?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6659483,
+          "entity_id": 49157403,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770749421,
+          "updated_at": 1770749165,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "ED não e ativa, nutrir"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49157403/notes/6659483?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6659541,
+          "entity_id": 49155759,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770749500,
+          "updated_at": 1770749246,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "potencial para se torna ed"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49155759/notes/6659541?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6659543,
+          "entity_id": 49155759,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770749502,
+          "updated_at": 1770749246,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "potencial para se torna ed"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49155759/notes/6659543?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6659741,
+          "entity_id": 49024227,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770749781,
+          "updated_at": 1770749524,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Nutrir"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/49024227/notes/6659741?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6660493,
+          "entity_id": 48997839,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770750892,
+          "updated_at": 1770750650,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Potencial para de torna ed"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48997839/notes/6660493?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6660555,
+          "entity_id": 48185241,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770750999,
+          "updated_at": 1770750742,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "ed potencial para novo inicio"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48185241/notes/6660555?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6660731,
+          "entity_id": 48099433,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770751274,
+          "updated_at": 1770751017,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "na ligação, pediu para não receber mais mensagem e liação sobre o canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48099433/notes/6660731?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6660823,
+          "entity_id": 48099185,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770751369,
+          "updated_at": 1770751112,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "não demostrou interesse no canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48099185/notes/6660823?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6660909,
+          "entity_id": 48096471,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770751508,
+          "updated_at": 1770751252,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "não demostrou interesse no canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48096471/notes/6660909?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6661009,
+          "entity_id": 48084193,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770751695,
+          "updated_at": 1770751438,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "não teve interesse no canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48084193/notes/6661009?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6661167,
+          "entity_id": 47294491,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770751887,
+          "updated_at": 1770751631,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "tem interesse em se manter informado."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47294491/notes/6661167?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6661953,
+          "entity_id": 41025934,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753244,
+          "updated_at": 1770752987,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "ED potencia novo inicio."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/41025934/notes/6661953?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662015,
+          "entity_id": 47557761,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753325,
+          "updated_at": 1770753067,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Potencial novo inicio."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47557761/notes/6662015?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662095,
+          "entity_id": 40966208,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753412,
+          "updated_at": 1770753155,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Potencial novo inicio."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40966208/notes/6662095?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662153,
+          "entity_id": 38388170,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753507,
+          "updated_at": 1770753249,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Potencial novo inicio."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/38388170/notes/6662153?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662215,
+          "entity_id": 48083917,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753637,
+          "updated_at": 1770753381,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Deseja ver a mãe no mcis"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48083917/notes/6662215?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662355,
+          "entity_id": 47288955,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753780,
+          "updated_at": 1770753523,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "manter por dentro das novidades."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/47288955/notes/6662355?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6662407,
+          "entity_id": 40949132,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770753850,
+          "updated_at": 1770753594,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Não tem interesse no canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40949132/notes/6662407?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6663083,
+          "entity_id": 40858428,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770754032,
+          "updated_at": 1770753776,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Não tem interessen no canal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40858428/notes/6663083?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6663419,
+          "entity_id": 40857926,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770754501,
+          "updated_at": 1770754244,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "SEM RETORNO"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40857926/notes/6663419?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6663851,
+          "entity_id": 40807634,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770754794,
+          "updated_at": 1770754537,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "SEM RETORNO"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/40807634/notes/6663851?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6711271,
+          "entity_id": 41025934,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770836530,
+          "updated_at": 1770836272,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "NEGOCIAÇÃO 2 VIDAS"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/41025934/notes/6711271?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7002615,
+          "entity_id": 50392371,
+          "created_by": 14206647,
+          "updated_by": 14206647,
+          "created_at": 1771615929,
+          "updated_at": 1771958471,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ana me ligou novamente no dia 20/02.\n\nConversou longamente, trazendo questões pessoais. Relatou que a separação é recente e que está conduzindo o próprio divórcio. Informou que o ex-marido, enfermeiro, a traiu; segundo ela, a família evangélica teria acobertado a situação. Tem duas filhas, que estão bem. Atualmente está em um novo relacionamento.\n\nDisse que sua principal dificuldade é se reerguer profissionalmente e retomar a atuação como advogada. Demonstrou interesse em palestrar, especialmente sobre temas relacionados a mulheres. Prestou prova para juiz e foi aprovada na primeira fase, mas não realizou a segunda etapa por limitações financeiras. Comentou que investiu seus recursos na construção da casa.\n\nMencionou ainda que cursava Psicologia, ocasião em que sofreu uma agressão no estacionamento da faculdade e se sentiu humilhada no atendimento na delegacia.\n\nManifestou forte desejo de participar da palestra junto com uma amiga."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50392371/notes/7002615?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6329191,
+          "entity_id": 48215443,
+          "created_by": 0,
+          "updated_by": 14138203,
+          "created_at": 1769777850,
+          "updated_at": 1772050832,
+          "responsible_user_id": 14206467,
+          "group_id": 0,
+          "note_type": "ai_result",
+          "params": {
+            "text": "Efson Rodrigues entrou em contato para tratar da participação no Programa de Alta Performance 2026 da Febracis Porto Velho. Ele informou que está focado na execução dos projetos para 2026 e que, no momento, não poderá participar do treinamento previsto para dezembro, adiando sua participação para o segundo semestre. Ficou acordado manter o contato para futuras oportunidades. Não há perguntas em aberto. Recomenda-se agendar uma tarefa para acompanhamento no segundo semestre de 2026.",
+            "answer_id": "5f3f14ba-47f8-4ca2-b7eb-9a78267d8e67",
+            "talk_id": 256,
+            "is_error": false
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48215443/notes/6329191?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7463005,
+          "entity_id": 50392371,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772632966,
+          "updated_at": 1772632968,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Ana. Ela me informou que agora está oficialmente divorciada. Está fazendo alguns cursos online do Paulo Vieira e, no momento, precisa montar uma reserva de emergência para poder comprar o curso Método CIS. Porém, ela se interessou pela palestra e encaminhei ambas as opções para ela."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50392371/notes/7463005?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7472401,
+          "entity_id": 52502245,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772650491,
+          "updated_at": 1772650492,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Liguei, mas aparentemente quem me atendeu foi uma criança e a ligação foi desligada."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52502245/notes/7472401?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7488505,
+          "entity_id": 52609163,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772661726,
+          "updated_at": 1772661728,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Conversei com o Rômulo, que já conhece o trabalho do Paulo Vieira por meio de um amigo que fez o curso e teve ótimos resultados. Ele já participou de outras imersões, mas nenhuma da Febracis. Combinamos de nos falar amanhã para alinhar o pagamento, já que ele tem interesse em adquirir o curso para ele e para a esposa."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52609163/notes/7488505?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7506119,
+          "entity_id": 48835615,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1772716709,
+          "updated_at": 1772720656,
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Cliente esta com uma negociação com um casal."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48835615/notes/7506119?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7544051,
+          "entity_id": 52877829,
+          "created_by": 14830392,
+          "updated_by": 14830392,
+          "created_at": 1772808294,
+          "updated_at": 1772808294,
+          "responsible_user_id": 14830392,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Fechar hoje o CIS - Está vendo agenda dela da Pós"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52877829/notes/7544051?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7544177,
+          "entity_id": 52878129,
+          "created_by": 14830392,
+          "updated_by": 14830392,
+          "created_at": 1772808524,
+          "updated_at": 1772808524,
+          "responsible_user_id": 14830392,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Fechar hoje o CIS Presencial Bronze"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52878129/notes/7544177?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7610167,
+          "entity_id": 53092607,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773080911,
+          "updated_at": 1773080913,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com o Regis por ligação. No momento, ele está focado no desenvolvimento profissional.\n\nEle se formou recentemente em Biomedicina e também possui formação em Administração, curso que fez em função do trabalho. Atualmente, é servidor público e percebe uma grande limitação na função que exerce, pois não enxerga muitas possibilidades de crescimento.\n\nDurante a conversa, comentou que pensa em empreender na área de estética, mas ainda tem certo receio, já que entende que o público é majoritariamente feminino e teme que possam surgir ruídos ou interpretações equivocadas nesse contexto.\n\nRegis também mencionou que está enfrentando um problema bancário, o que o impede de realizar o investimento neste momento.\n\nMesmo assim, combinamos que ele virá até a nossa unidade na quarta-feira, após as 15h, para conversarmos com mais calma."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53092607/notes/7610167?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7653738,
+          "entity_id": 52247049,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773165000,
+          "updated_at": 1773166517,
+          "responsible_user_id": 14206647,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Flávia. Ela informou que está buscando o Método CIS para o marido. Conheceu o treinamento através de uma blogueira nas redes sociais que participou do método.\n\nHoje, ela relata que a vida familiar e profissional está indo bem. Porém, mencionou que sofre com ansiedade e sente que isso acaba impactando o corpo dela.\n\nComentou também que se considera uma esposa mais submissa, que segue princípios cristãos. Na empresa, relatou que os colaboradores gostam muito dela.\n\nO interesse dela no Método CIS é principalmente para o marido, pois descreveu que ele é uma pessoa muito fechada, tanto no relacionamento quanto na forma de lidar com as pessoas. Segundo ela, isso acaba limitando o crescimento dela e faz com que hoje ela sinta dificuldade em performar melhor. Também comentou que os colaboradores têm um certo receio e respeito dele justamente por ele ser mais fechado.\n\nEla está em dúvida sobre participar presencialmente, pois estará buscando a filha em Belo Horizonte, que está vindo dos Estados Unidos. A filha está grávida, o que tem gerado muitos gastos para ela neste momento.\n\nMesmo assim, comentou que “Deus sabe o que faz”.\n\nTambém mencionou que achou o valor da edição de Vilhena alto por não contar com a presença do Paulo Vieira.\n\nFicou combinado que eu passaria o caso para o nosso especialista dar continuidade no atendimento.\n\nDados:\n\nNome: Jhemens Ragner Oliveira de Menezes\nCargo: Sócio\nEmpresa: JF Auto Center\nCNPJ: 19.395.036/0001-40\nInstagram da empresa: @jfautocenter_vha\n\nInstagram:\n@jhemensragner\n@flavia_ciqueira"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52247049/notes/7653738?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7655420,
+          "entity_id": 52511697,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773167174,
+          "updated_at": 1773167175,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Akila. Ela informou que a filha passou mal na escola e que está indo buscá-la. Disse que me retorna pelo WhatsApp."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52511697/notes/7655420?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7656150,
+          "entity_id": 52526447,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773168069,
+          "updated_at": 1773168070,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com ele, mas estava em uma serraria e havia muito barulho. Ele pediu para eu ligar novamente quando voltar para o sítio."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52526447/notes/7656150?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7658104,
+          "entity_id": 52627019,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773170489,
+          "updated_at": 1773170491,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "ver seu pai, pediu para mim entrar em contato sexta feira \n\nFalei com a Hilda. Ela estava arrumando as malas para viajar e visitar o pai. Pediu para eu entrar em contato na sexta-feira."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52627019/notes/7658104?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7658426,
+          "entity_id": 52725805,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773170835,
+          "updated_at": 1773170836,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Israellen Thamara. Ela estava um pouco apurada, como ela mesma disse. Combinamos de eu ligar para ela amanhã."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7658426?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7692171,
+          "entity_id": 53458433,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773242583,
+          "updated_at": 1773242585,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com o José. Hoje ele é empreendedor, tem uma loja em Humaitá e também uma filial aqui em Porto Velho, na Carlos Gomes.\n\nPerguntei o nome da empresa, mas ele acabou não informando. Atualmente ele possui cerca de 20 colaboradores.\n\nO que mais tem impactado ele hoje é a questão emocional, ligada à família, principalmente quando pessoas saem da vida dele. Ele comentou que acaba se apegando muito e, quando isso acontece, isso interfere diretamente no desempenho dele dentro da empresa.\n\nAtualmente ele cuida da parte financeira do negócio. Já conseguiu se afastar do operacional, porém relatou que essa área não está tão saudável, e que chega a perder noites de sono quando surgem problemas, o que acaba impactando diretamente a vida profissional dele.\n\nPara ele, o treinamento faz sentido e ele informou que pretende participar em Porto Velho.\n\nFicou combinado de eu retornar o contato com ele na terça-feira, às 11h. Ele também comentou que todo sábado vem a Porto Velho e informou que pretende passar em nossa unidade para conhecer e fazer uma visita."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53458433/notes/7692171?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7697945,
+          "entity_id": 53342904,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773251752,
+          "updated_at": 1773251753,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Kamyla no final da tarde. Ela comentou que, neste momento, o foco dela está no desenvolvimento profissional. Atualmente possui dois negócios: uma loja de roupas e uma lanchonete.\n\nRelatou que, por algumas questões, houve uma queda em seus negócios e acabou recebendo críticas, inclusive do marido. Hoje ela afirma que os negócios estão indo bem, mas entende que ainda precisa melhorar.\n\nFicou combinado de eu entrar em contato com ela hoje para verificar onde ela pretende participar do treinamento: se em Porto Velho ou em BH."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53342904/notes/7697945?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7699625,
+          "entity_id": 53477049,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773253867,
+          "updated_at": 1773253869,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com Maria por telefone. Ela informou que hoje trabalha na Vitória Gesso e que se sente estagnada. Disse que a questão financeira não está bem e que isso impacta sua vida.\n\nComentou que acompanha algumas coisas do Paulo Vieira e também alguns blogueiros que já postaram sobre o método. No momento, achou o valor alto para a realidade dela.\n\nConvidei para vir conhecer nossa unidade e ofereci o livro O Poder da Ação."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53477049/notes/7699625?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7700083,
+          "entity_id": 53478531,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773254668,
+          "updated_at": 1773254671,
+          "responsible_user_id": 14836748,
+          "group_id": -1,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Karina por telefone. Ela não trouxe nenhuma dor específica e disse que está tudo bem no momento. Informou que já conhece a nossa unidade e que inclusive já esteve aqui. Comentou que gostaria de fazer o treinamento junto com o marido. Disse também que o valor e as datas estão dentro do orçamento dela e que me dará um retorno na sexta-feira."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53478531/notes/7700083?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7704365,
+          "entity_id": 53348060,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773260068,
+          "updated_at": 1773260070,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Conversei com ela. Possui duas filhas, uma de 13 anos e outra de 18. A de 13 é mais independente; a de 18 ainda apresenta algumas limitações e certa dependência.\n\nAtualmente, trabalha na área da saúde e também na área estética, atuando como cabeleireira.\n\nEla busca participar do treinamento junto com a filha de 18 anos. Informou que, durante um período, enfrentou dificuldades financeiras, com algumas dívidas e situações que agravaram esse cenário. No entanto, relatou que hoje a situação já está melhorando.\n\nSegundo ela, os valores atualmente estão tranquilos dentro da sua realidade financeira. Ficou combinado que o closer entrará em contato para apresentar os valores do Método CIS presencial."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53348060/notes/7704365?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7753529,
+          "entity_id": 53614891,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773336474,
+          "updated_at": 1773336478,
+          "responsible_user_id": 14836748,
+          "group_id": -1,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Ana Paula. Ela informou que está buscando o Método CIS por conta do casamento, que atualmente não vai bem. Disse que em janeiro passaram pela pior crise, e que agora a situação está mais equilibrada.\n\nEla possui dois filhos, um casal: um de 8 anos e outro de 5 anos. O principal motivo da busca pelo treinamento é melhorar o casamento.\n\nEla comentou que consegue participar, porém acredita que o marido provavelmente não participará. Ficou combinado de marcarmos um dia para que ela venha conhecer a nossa unidade."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53614891/notes/7753529?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7755891,
+          "entity_id": 52386904,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773339383,
+          "updated_at": 1773339385,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Tentei ligar novamente, contudo, não obtive sucesso."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52386904/notes/7755891?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7760185,
+          "entity_id": 52686821,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773343679,
+          "updated_at": 1773343682,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Conversei com a Thais hoje. Ela é autônoma e informou que, para ela, será melhor participar em Porto Velho. Disse que poderá realizar sua inscrição no dia 19. Marcamos também uma visita: ela virá aqui na segunda-feira."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52686821/notes/7760185?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7761371,
+          "entity_id": 52793001,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773344839,
+          "updated_at": 1773344841,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Silvana. Ela estava no hospital. Quem entrou em contato foi o filho dela, Marlom. Ele já é maior de idade, mas aparentemente não possui celular."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52793001/notes/7761371?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7761857,
+          "entity_id": 52725805,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773345356,
+          "updated_at": 1773345359,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Israellen informou que estava muito ocupada e que vai viajar. Ela retorna no dia 23 e pediu para que eu envie o conteúdo para ela pelo WhatsApp mesmo."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7761857?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7762029,
+          "entity_id": 52725805,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773345501,
+          "updated_at": 1773345504,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Oi, Israellen. Conforme combinamos, estou te enviando os detalhes da próxima turma do Método CIS.\n\n Datas: 16, 17 e 18 de abril\n⏰ Horários:\n• Dia 16 – 09h às 00h30\n• Dia 17 – 09h às 00h30\n• Dia 18 – 09h às 06h da manhã\n\nÉ uma imersão intensa de inteligência emocional, desenvolvimento pessoal e reprogramação de crenças, conduzida pela Febracis e idealizada pelo Paulo Vieira. \n\nSCRIPT MÉTODO CIS .docx (1)\n\nConsegue verificar se essas datas e horários se encaixam na sua agenda? Se fizer sentido para você, te explico os próximos passos para garantir sua participação."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52725805/notes/7762029?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7763541,
+          "entity_id": 52803665,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773347144,
+          "updated_at": 1773347146,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com Murilo por ligação. Informou que hoje o objetivo dele é alta performance. Gostou do valor, porém precisa conversar antes com a esposa, que é advogada e contadora. Atualmente, ele é empresário."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/52803665/notes/7763541?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7899813,
+          "entity_id": 54030761,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773670425,
+          "updated_at": 1773670426,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Conceição; ela é servidora pública e estava doente no momento da ligação. Ela busca o Método CIS para o marido, que atualmente trabalha com consultoria ambiental, visando a uma melhora no desempenho dele, mas ela também pretende fazer o treinamento. Sobre os valores, ela considerou adequados e agendamos uma reunião para o dia 26."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54030761/notes/7899813?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7902311,
+          "entity_id": 53878773,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773674836,
+          "updated_at": 1773674837,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Jéssica. Ela comentou que tem buscado uma mudança de vida. Tem um filho autista nível 1 e relatou que enfrenta muitas dificuldades, principalmente com julgamentos.\n\nEla acredita que carrega algumas crenças que foram implantadas na infância, principalmente pela relação com o pai, e sente que isso ainda impacta sua vida hoje. Por isso, está buscando esse processo de mudança.\n\nFicou combinado de eu ligar para ela à tarde para ajudá-la a preencher o cadastro no link de inscrição."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53878773/notes/7902311?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7909495,
+          "entity_id": 53453293,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773683961,
+          "updated_at": 1773683962,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Tentei ligar, mas não atendeu."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53453293/notes/7909495?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7909623,
+          "entity_id": 53450539,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773684109,
+          "updated_at": 1773684110,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Tentei ligar, mas não atendeu."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53450539/notes/7909623?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7951709,
+          "entity_id": 54040833,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773756903,
+          "updated_at": 1773756903,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54040833/notes/7951709?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7951829,
+          "entity_id": 54040591,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773757018,
+          "updated_at": 1773757018,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54040591/notes/7951829?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7951927,
+          "entity_id": 54035403,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773757088,
+          "updated_at": 1773757088,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54035403/notes/7951927?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7952037,
+          "entity_id": 54027495,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773757196,
+          "updated_at": 1773757195,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54027495/notes/7952037?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7952403,
+          "entity_id": 54008833,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773757641,
+          "updated_at": 1773757641,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Fabiane hoje. A principal dor relatada é dificuldade na tomada de decisão, não consegue decidir de forma firme e coerente. Já abriu um negócio anteriormente, mas encerrou por conta dessas dificuldades.\nPediu para retornar a ligação mais tarde, pois estava em horário de trabalho. Atualmente trabalha em uma concessionária."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54008833/notes/7952403?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7953017,
+          "entity_id": 53999763,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773758229,
+          "updated_at": 1773758229,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53999763/notes/7953017?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7953157,
+          "entity_id": 53995705,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773758354,
+          "updated_at": 1773758355,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53995705/notes/7953157?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7953263,
+          "entity_id": 53920593,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773758520,
+          "updated_at": 1773758520,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53920593/notes/7953263?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7953343,
+          "entity_id": 53913953,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773758575,
+          "updated_at": 1773758576,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53913953/notes/7953343?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7953407,
+          "entity_id": 53912245,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773758658,
+          "updated_at": 1773758659,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53912245/notes/7953407?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7954089,
+          "entity_id": 53889057,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773759305,
+          "updated_at": 1773759307,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53889057/notes/7954089?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7955669,
+          "entity_id": 53885847,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773760937,
+          "updated_at": 1773760937,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53885847/notes/7955669?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7955871,
+          "entity_id": 53875787,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773761215,
+          "updated_at": 1773761215,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53875787/notes/7955871?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7955957,
+          "entity_id": 53507779,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773761362,
+          "updated_at": 1773761362,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Tentei ligar, mas não atendeu."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53507779/notes/7955957?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 2021892,
+          "entity_id": 20154614,
+          "created_by": 14206647,
+          "updated_by": 14964000,
+          "created_at": 1764014412,
+          "updated_at": 1773761427,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "geolocation",
+          "params": {
+            "text": "Prefere método à vista",
+            "address": "R. Emil Gorayeb, 3566 - São João Bosco, Porto Velho - RO, 76803-728, Brasil, Rondônia",
+            "longitude": -63.90041089999999,
+            "latitude": -8.7500802
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/20154614/notes/2021892?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 2098224,
+          "entity_id": 20813770,
+          "created_by": 14206647,
+          "updated_by": 14964000,
+          "created_at": 1764095343,
+          "updated_at": 1773761428,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Já participou de cursos de questão emocional ,gosta de detalhes ,possível objeção de modalidade global ,alto interesse em int emocional.Nao acompanha Paulo Vieira ,mandar vídeos do Paulo Vieira p ela"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/20813770/notes/2098224?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6183019,
+          "entity_id": 48077837,
+          "created_by": 14206647,
+          "updated_by": 14964000,
+          "created_at": 1769541465,
+          "updated_at": 1773761438,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "geolocation",
+          "params": {
+            "text": "Nutrici9nista e masaterapeuta .objeção de horari9",
+            "address": "R. Emil Gorayeb, 3566 - São João Bosco, Porto Velho - RO, 76803-728, Brasil, Rondônia",
+            "longitude": -63.90041089999999,
+            "latitude": -8.7500802
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48077837/notes/6183019?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6342075,
+          "entity_id": 48083225,
+          "created_by": 0,
+          "updated_by": 14964000,
+          "created_at": 1769797649,
+          "updated_at": 1773761438,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "ai_result",
+          "params": {
+            "text": "Guilherme Leonardo entrou em contato em 27 de janeiro de 2026 com uma mensagem inicial, mas não especificou o motivo da consulta. Não houve acordos firmados nem próximos passos definidos até o momento. Também não foram feitas perguntas pendentes ou esclarecimentos solicitados. Recomenda-se agendar uma tarefa para acompanhamento da comunicação em 27 de janeiro de 2026 às 14:21.",
+            "answer_id": "7fbd5882-b4ef-45fd-9e8b-5a12b4bfcf40",
+            "talk_id": 4231,
+            "is_error": false
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48083225/notes/6342075?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6342237,
+          "entity_id": 48082705,
+          "created_by": 0,
+          "updated_by": 14964000,
+          "created_at": 1769797932,
+          "updated_at": 1773761438,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "ai_result",
+          "params": {
+            "text": "Lucineide Lobaque entrou em contato em 27 de janeiro de 2026 com uma saudação e uma pergunta, mas não especificou o motivo da consulta. Não houve acordos firmados nem próximos passos definidos. A dúvida inicial do cliente permanece sem resposta. Recomenda-se agendar uma tarefa para acompanhamento da consulta em 27 de janeiro de 2026 às 14:15.",
+            "answer_id": "4a9d8667-056c-4f43-84e7-2001ec3cea7a",
+            "talk_id": 4229,
+            "is_error": false
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48082705/notes/6342237?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6593687,
+          "entity_id": 48082705,
+          "created_by": 0,
+          "updated_by": 14964000,
+          "created_at": 1770572681,
+          "updated_at": 1773761438,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "ai_result",
+          "params": {
+            "text": "Lucineide Lobaque entrou em contato em 27 de janeiro de 2026 com uma saudação e uma pergunta, sem especificar o motivo da consulta. Não houve acordos firmados nem próximos passos definidos. A dúvida inicial do cliente permanece sem resposta.",
+            "answer_id": "5522cda3-e8be-4321-8d04-e04ce7767215",
+            "talk_id": 4229,
+            "is_error": false
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/48082705/notes/6593687?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 6761275,
+          "entity_id": 50033277,
+          "created_by": 14206647,
+          "updated_by": 14964000,
+          "created_at": 1770927812,
+          "updated_at": 1773761440,
+          "responsible_user_id": 14964000,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": ".."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/50033277/notes/6761275?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7961209,
+          "entity_id": 53713799,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773767591,
+          "updated_at": 1773767592,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53713799/notes/7961209?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7961279,
+          "entity_id": 53441351,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1773767681,
+          "updated_at": 1773767682,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53441351/notes/7961279?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8181193,
+          "entity_id": 54973911,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774287789,
+          "updated_at": 1774287792,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Joyce. Ela é casada, tem um filho de 4 anos e outro de 15. É bem religiosa, enquanto o marido não tanto. É formada em Contabilidade e atualmente vende alguns produtos de casa, mas está querendo voltar ao mercado de trabalho.\n\nO marido é difícil e não a motiva; tudo o que ela busca fazer, ele diz que não vai dar certo. Ela é do interior e, para ela, será difícil participar, tanto por conta da postura do marido quanto pela questão financeira, já que não trabalha no momento. Ainda assim, disse que vai correr atrás para participar."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54973911/notes/8181193?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8186081,
+          "entity_id": 54935621,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774293583,
+          "updated_at": 1774293586,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Edinalva. Ela já fez o Método CIS, assim como o esposo. Porém, ela entrou em contato para repassar as informações para ele — não entendi muito bem, mas foi isso."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54935621/notes/8186081?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8227707,
+          "entity_id": 53478531,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774374938,
+          "updated_at": 1774374938,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Karina informou que prefere deixar para uma próxima oportunidade, pois o marido gostaria de ver o Paulo Vieira presencialmente.\nTentei contornar a situação, mas não houve abertura no momento. Sem problemas, seguimos acompanhando."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53478531/notes/8227707?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8312457,
+          "entity_id": 54646975,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774469139,
+          "updated_at": 1774469139,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com o Eber. Ele quer fazer o Método CIS presencialmente, mas está aberto a participar de outros eventos na unidade da Febracis."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54646975/notes/8312457?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8317091,
+          "entity_id": 55339907,
+          "created_by": 14642444,
+          "updated_by": 14642444,
+          "created_at": 1774474573,
+          "updated_at": 1774474573,
+          "responsible_user_id": 14642444,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Cris, alguns dos seus convidados para o BHP não vieram?\nQuem não veio, eu preciso dos nomes, por favor."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55339907/notes/8317091?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8350017,
+          "entity_id": 54655821,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774534451,
+          "updated_at": 1774534454,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com o Eli. Ele disse que, por agora, está meio difícil participar com a esposa, mas que irá participar. Informou que se inscreve ainda hoje."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54655821/notes/8350017?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8351337,
+          "entity_id": 54648031,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774535756,
+          "updated_at": 1774535760,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Cléo, que pretende participar do Método CIS na próxima edição, pois no momento está realizando um tratamento ortodôntico."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54648031/notes/8351337?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8367019,
+          "entity_id": 55488387,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774550123,
+          "updated_at": 1774550127,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Gracyelly, falei com ela. Ela não conhece o Paulo Vieira nem nada, mas gostou da opção voltada para o evento LL Network. Já passei o contato dela para a Lorena."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55488387/notes/8367019?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8367135,
+          "entity_id": 55488387,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774550249,
+          "updated_at": 1774550253,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Gracyelly, obrigado pela ligação de hoje!\n\nA Lorena vai entrar em contato com você para te passar mais detalhes do LL Network e te orientar melhor sobre a participação, combinado?\n\nQualquer coisa, sigo por aqui à disposição."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55488387/notes/8367135?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8367839,
+          "entity_id": 55502175,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774550810,
+          "updated_at": 1774550814,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Yasmin, que é de outra cidade. A data do Método CIS vai coincidir com o aniversário da filha dela, então não conseguirá participar. Ela vai deixar para a próxima edição."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55502175/notes/8367839?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8370501,
+          "entity_id": 54649197,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1774554717,
+          "updated_at": 1774554718,
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Rafaela; muito ocupada, pediu-me para lhe mandar mensagem amanhã, por volta das 9 horas da manhã."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54649197/notes/8370501?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 7955743,
+          "entity_id": 53880831,
+          "created_by": 14836748,
+          "updated_by": 14830392,
+          "created_at": 1773761027,
+          "updated_at": 1774624503,
+          "responsible_user_id": 14830392,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Ligação realizada, sem sucesso no contato."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/53880831/notes/7955743?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8289523,
+          "entity_id": 54923121,
+          "created_by": 14836748,
+          "updated_by": 14830392,
+          "created_at": 1774446413,
+          "updated_at": 1775080734,
+          "responsible_user_id": 14830392,
+          "group_id": 691116,
+          "note_type": "common",
+          "params": {
+            "text": "Falei com a Amanda, que quer participar do Método CIS em Vilhena. Ela é de Cacoal e pretende participar junto com o marido. Ficou combinado que ela verificará a questão dos valores às 14h. O Marlon, nosso especialista, entrará em contato com ela pelo WhatsApp."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/54923121/notes/8289523?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8746545,
+          "entity_id": 55928839,
+          "created_by": 14830388,
+          "updated_by": 14830388,
+          "created_at": 1775596011,
+          "updated_at": 1775596012,
+          "responsible_user_id": 14830388,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Liguei, para ele e falamos sobre sua jornada, ele tem interesse na grande Green. \nEle no tem interesse no FCIS, ML5, MASTER, FOP, IF."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/55928839/notes/8746545?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8746581,
+          "entity_id": 56024277,
+          "created_by": 14642444,
+          "updated_by": 14642444,
+          "created_at": 1775596231,
+          "updated_at": 1775596297,
+          "responsible_user_id": 14642444,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Treinamento agendado para ser realizado na REMAX com o treinador Emerson Motta no dia 27.04.2026 às 08h especificamente para os corretores. \nFoi oferecido para ela participar junto com a Marta, o Jota e o Vinícius do work contratação assertiva no dia 14.04.2026.\nA consultora é a Helen Feleol que está negociando o CIS com ela."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56024277/notes/8746581?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8777265,
+          "entity_id": 56551883,
+          "created_by": 14642444,
+          "updated_by": 14642444,
+          "created_at": 1775751490,
+          "updated_at": 1775751491,
+          "responsible_user_id": 14642444,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Cliente informou que a filha pequena clicou sem querer no anúncio mas que ele já fez o Método CIS."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56551883/notes/8777265?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8777373,
+          "entity_id": 56515891,
+          "created_by": 14642444,
+          "updated_by": 14642444,
+          "created_at": 1775751819,
+          "updated_at": 1775751820,
+          "responsible_user_id": 14642444,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "A cliente informou que não conseguirá participar do LL por conta dos atendimentos que já possui agendados mas tem interesse em eventos voltados ao networking e autodesenvolvimento pessoal e profissional."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515891/notes/8777373?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8825509,
+          "entity_id": 56515845,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776089186,
+          "updated_at": 1776089187,
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Conforme o Emerson,  conversou com Júlia, repassei à Neriane.\n\nPrimeira Parcela\n1) R$ 100,00 para dia 10/04/2026 ( via pix)\n2) R$ 100,00 para dia 15/04/2026 (via pix)\n\n3) Valor integral R$ 450 para dia 28/04/2026 ( boleto) \n\nSegunda parcela:\nValor integral: R$ 650,00 para o dia 28/05/2026 (boleto)\n\n\nSegue o acordo realizado exclusivamente para Nerian."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825509?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8825587,
+          "entity_id": 56515845,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776089342,
+          "updated_at": 1776089345,
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "note_type": "attachment",
+          "params": {
+            "is_drive_attachment": true,
+            "text": "Comprovante no valor de 100 - Neriane - Team Coach Life.pdf",
+            "original_name": "Comprovante no valor de 100 - Neriane - Team Coach Life.pdf",
+            "file_uuid": "f27aa43d-24d5-4046-b257-7a07508ed353",
+            "version_uuid": "fb1b717a-747a-4eca-9ef9-4092e8c7cf81",
+            "file_name": "Comprovante_no_valor_de_100_-_Neriane_-_Team_Coach_Life.pdf"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825587?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8825589,
+          "entity_id": 56515845,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776089342,
+          "updated_at": 1776089345,
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Conforme o acordo , foi realizado o pagamento no valor de R$ 100,00 diretamente à Febracis. Comprovante foi envidado para comprovação"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/56515845/notes/8825589?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 8949671,
+          "entity_id": 57085359,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776728063,
+          "updated_at": 1776728065,
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Segue o link da Análise do Paulo ( para realizar fechamento) https://docs.google.com/document/d/1EfC6AFs_z6lQHujsNm8ek3ZBErFpZNtpZMRyv8Wviko/edit?tab=t.2pulksdkawb0\n\no método dele está incompleto sem o FGPC;\n\n&gt;&gt;  ESTRATÉGIA CENTRAL\n\nEle tem:\n✔ Método próprio\n✔ Autoridade\n✔ Confiança no que faz\n\nEntão esquece confronto.\n\n O caminho é INTEGRAÇÃO, não SUBSTITUIÇÃO"
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/57085359/notes/8949671?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 9083819,
+          "entity_id": 57135143,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1777472638,
+          "updated_at": 1777472639,
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "note_type": "common",
+          "params": {
+            "text": "Sobre a empresa: A Osklen é uma marca brasileira de moda contemporânea, fundada em 1989 por Oskar Metsavaht, reconhecida por unir sofisticação, design, sustentabilidade e lifestyle carioca. Pioneira no &quot;novo luxo&quot; ético, utiliza materiais de baixo impacto ambiental, como através do projeto E-Fabrics. A marca possui forte presença internacional e nacional, com foco no estilo casual sofisticado.\n\nSobre a Kelly:  Um leve inclinação aos perfis: Influente e Estável\nTem um filho, é separada do pai da criança."
+          },
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/leads/57135143/notes/9083819?limit=250&page=1"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "3b848ebb0bd23a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddee06c8f6658696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80634c50644370d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Geral_Unidade.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desempenho_Geral_Unidade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dacb30d142d17318",
+    "type": "split",
+    "children": [
+      {
+        "id": "239e2f3ecb73f6fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2786d3bcd68c228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcd3a635a9436098",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a9e99d4f0c5559c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed85df7fd1c5e724",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c01d9eb8878f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e06c4bd1ef735f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Geral_Unidade.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Desempenho_Geral_Unidade"
+            }
+          },
+          {
+            "id": "870044302a5b648a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Geral_Unidade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Desempenho_Geral_Unidade"
+            }
+          },
+          {
+            "id": "5d5506025e593ca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cb8e7f89514c2505",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "c7b5f03f671e55b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Geral_Unidade.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Desempenho_Geral_Unidade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e80634c50644370d",
+  "lastOpenFiles": [
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Camila_Oliveira.md",
+    "Base_de_Conhecimento/Dashboard_Inicial.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Analise_Motivos_Perda.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_MARLON_BARBA.md",
+    "data/analise_perdas_corrigida.json",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Luiz_Gonzaga.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_LORENA.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Karina_Azevedo.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Helen_Tayane.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Gustavo_Guimaraes.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Geral_Unidade.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Erica_Caitano.md",
+    "Base_de_Conhecimento/Relatorios_de_Vendas/Desempenho_Crislane_Azevedo.md",
+    "data/analise_perdas_30d.json",
+    "README.md",
+    "GEMINI.md",
+    "CONTEXTO_SESSAO.md"
+  ]
+}
