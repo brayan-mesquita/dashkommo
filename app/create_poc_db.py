@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Configuração
 DB_PATH = 'app/kommo_poc.db'
-DATA_DIR = Path('kommo/data')
+DATA_DIR = Path('app/data')
 
 def create_schema(conn):
     cursor = conn.cursor()

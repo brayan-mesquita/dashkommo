@@ -23,5 +23,4 @@ RUN mkdir -p kommo/data
 EXPOSE 8501
 
 # Comando para rodar o scheduler e o streamlit
-# O scheduler precisa de acesso ao diretório raiz para rodar os scripts da pasta kommo/
 CMD python3 app/scheduler.py & streamlit run app/streamlit_app.py --server.port=8501 --server.address=0.0.0.0

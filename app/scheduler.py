@@ -7,25 +7,25 @@ from datetime import datetime
 def run_sync():
     print(f"[{datetime.now()}] Iniciando sincronização com Kommo CRM...")
     try:
-        # 1. Puxar dados da API
+        # 1. Puxar dados da API (Caminhos ajustados para dentro da pasta app)
         subprocess.run([
-            "python3", "kommo/agents/especialista-vendas/scripts/kommo_fetch.py", "leads", 
-            "--env-file", "kommo/.env.kommo", "--all-pages", "--output", "kommo/data/leads_current.json"
+            "python3", "app/scripts/kommo_fetch.py", "leads", 
+            "--env-file", "kommo/.env.kommo", "--all-pages", "--output", "app/data/leads_current.json"
         ], check=True)
         
         subprocess.run([
-            "python3", "kommo/agents/especialista-vendas/scripts/kommo_fetch.py", "pipelines", 
-            "--env-file", "kommo/.env.kommo", "--output", "kommo/data/pipelines_current.json"
+            "python3", "app/scripts/kommo_fetch.py", "pipelines", 
+            "--env-file", "kommo/.env.kommo", "--output", "app/data/pipelines_current.json"
         ], check=True)
         
         subprocess.run([
-            "python3", "kommo/agents/especialista-vendas/scripts/kommo_fetch.py", "users", 
-            "--env-file", "kommo/.env.kommo", "--output", "kommo/data/users_current.json"
+            "python3", "app/scripts/kommo_fetch.py", "users", 
+            "--env-file", "kommo/.env.kommo", "--output", "app/data/users_current.json"
         ], check=True)
         
         subprocess.run([
-            "python3", "kommo/agents/especialista-vendas/scripts/kommo_fetch.py", "/api/v4/leads/loss_reasons", 
-            "--env-file", "kommo/.env.kommo", "--output", "kommo/data/loss_reasons_current.json"
+            "python3", "app/scripts/kommo_fetch.py", "/api/v4/leads/loss_reasons", 
+            "--env-file", "kommo/.env.kommo", "--output", "app/data/loss_reasons_current.json"
         ], check=True)
 
         # 2. Atualizar o Banco de Dados

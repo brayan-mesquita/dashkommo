@@ -1,0 +1,3344 @@
+{
+  "path": "/api/v4/users",
+  "embedded_key": "users",
+  "pages_fetched": 1,
+  "records": 11,
+  "data": [
+    {
+      "id": 11692279,
+      "name": "Erica Caitano",
+      "email": "centuriaportovelho2@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "M",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "M",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "M",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "M"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "L",
+              "view": "L",
+              "delete": "L",
+              "export": "L"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/11692279/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 13168515,
+      "name": "Brayan Mesquita",
+      "email": "brayanmesquita@gmail.com",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "contacts": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "companies": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "tasks": {
+          "edit": "A",
+          "delete": "A"
+        },
+        "mail_access": true,
+        "catalog_access": true,
+        "files_access": true,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": true,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/13168515/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14206467,
+      "name": "Karina Azevedo",
+      "email": "karinaazevedo@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "G",
+          "edit": "G",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "M",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "M"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14206467/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14206647,
+      "name": "MARLON BARBA",
+      "email": "marlonbarba@febracis.com",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "M"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14206647/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14642444,
+      "name": "LORENA",
+      "email": "eventosportovelho@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "D"
+        },
+        "mail_access": true,
+        "catalog_access": false,
+        "files_access": true,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14642444/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14659763,
+      "name": "Crislane Miranda",
+      "email": "crislanemoura@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "D"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14659763/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14830388,
+      "name": "Helen Tayane",
+      "email": "helendasilva@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "M"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14830388/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14830392,
+      "name": "Camila Oliveira",
+      "email": "camilaoliveira@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "G",
+          "edit": "G",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "G",
+          "edit": "G",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "G",
+          "edit": "G",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "G",
+          "delete": "D"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "L",
+              "view": "L",
+              "delete": "D",
+              "export": "L"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 691116,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14830392/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14836748,
+      "name": "Gustavo Guimarães",
+      "email": "cerqueiraguimaraes@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "contacts": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "companies": {
+          "view": "M",
+          "edit": "M",
+          "add": "A",
+          "delete": "D",
+          "export": "M"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "D"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "L",
+              "view": "L",
+              "delete": "L",
+              "export": "L"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": false,
+        "group_id": 691116,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14836748/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 14964000,
+      "name": "Queila Leite - Febracis Porto Velho",
+      "email": "queilaleite@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "contacts": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "companies": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "tasks": {
+          "edit": "A",
+          "delete": "A"
+        },
+        "mail_access": true,
+        "catalog_access": true,
+        "files_access": true,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "A",
+              "edit": "A",
+              "view": "A",
+              "delete": "A",
+              "export": "A"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": true,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/14964000/?limit=250&page=1"
+        }
+      }
+    },
+    {
+      "id": 15057472,
+      "name": "Luiz Gonzaga",
+      "email": "luizgonzaga@febracis.com.br",
+      "lang": "pt",
+      "rights": {
+        "leads": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "contacts": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "companies": {
+          "view": "A",
+          "edit": "A",
+          "add": "A",
+          "delete": "A",
+          "export": "A"
+        },
+        "tasks": {
+          "edit": "M",
+          "delete": "M"
+        },
+        "mail_access": false,
+        "catalog_access": false,
+        "files_access": false,
+        "status_rights": [
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12344455,
+            "status_id": 95395863,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512675,
+            "status_id": 96645471,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12512679,
+            "status_id": 96645487,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12549611,
+            "status_id": 96926047,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 12569719,
+            "status_id": 97077571,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189276,
+            "status_id": 101703076,
+            "rights": {
+              "view": "A",
+              "edit": "A",
+              "delete": "A"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13189284,
+            "status_id": 101703344,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
+            "pipeline_id": 13235212,
+            "status_id": 102056264,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          }
+        ],
+        "catalog_rights": [
+          {
+            "catalog_id": 47274,
+            "rights": {
+              "add": "D",
+              "edit": "D",
+              "view": "D",
+              "delete": "D",
+              "export": "D"
+            }
+          }
+        ],
+        "custom_fields_rights": null,
+        "is_admin": false,
+        "is_free": false,
+        "is_active": true,
+        "group_id": 0,
+        "role_id": null
+      },
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/users/15057472/?limit=250&page=1"
+        }
+      }
+    }
+  ],
+  "last_page": {
+    "_total_items": 11,
+    "_page": 1,
+    "_page_count": 1,
+    "_links": {
+      "self": {
+        "href": "https://crmfbcpvh.kommo.com/api/v4/users/?limit=250&page=1"
+      }
+    },
+    "_embedded": {
+      "users": [
+        {
+          "id": 11692279,
+          "name": "Erica Caitano",
+          "email": "centuriaportovelho2@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "M",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "M",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "M",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "M"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "L",
+                  "view": "L",
+                  "delete": "L",
+                  "export": "L"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/11692279/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 13168515,
+          "name": "Brayan Mesquita",
+          "email": "brayanmesquita@gmail.com",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "contacts": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "companies": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "tasks": {
+              "edit": "A",
+              "delete": "A"
+            },
+            "mail_access": true,
+            "catalog_access": true,
+            "files_access": true,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": true,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/13168515/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14206467,
+          "name": "Karina Azevedo",
+          "email": "karinaazevedo@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "G",
+              "edit": "G",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "M",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "M"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14206467/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14206647,
+          "name": "MARLON BARBA",
+          "email": "marlonbarba@febracis.com",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "M"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14206647/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14642444,
+          "name": "LORENA",
+          "email": "eventosportovelho@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "D"
+            },
+            "mail_access": true,
+            "catalog_access": false,
+            "files_access": true,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14642444/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14659763,
+          "name": "Crislane Miranda",
+          "email": "crislanemoura@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "D"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14659763/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14830388,
+          "name": "Helen Tayane",
+          "email": "helendasilva@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "M"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14830388/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14830392,
+          "name": "Camila Oliveira",
+          "email": "camilaoliveira@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "G",
+              "edit": "G",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "G",
+              "edit": "G",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "G",
+              "edit": "G",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "G",
+              "delete": "D"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "L",
+                  "view": "L",
+                  "delete": "D",
+                  "export": "L"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 691116,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14830392/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14836748,
+          "name": "Gustavo Guimarães",
+          "email": "cerqueiraguimaraes@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "contacts": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "companies": {
+              "view": "M",
+              "edit": "M",
+              "add": "A",
+              "delete": "D",
+              "export": "M"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "D"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "L",
+                  "view": "L",
+                  "delete": "L",
+                  "export": "L"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": false,
+            "group_id": 691116,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14836748/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 14964000,
+          "name": "Queila Leite - Febracis Porto Velho",
+          "email": "queilaleite@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "contacts": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "companies": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "tasks": {
+              "edit": "A",
+              "delete": "A"
+            },
+            "mail_access": true,
+            "catalog_access": true,
+            "files_access": true,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "A",
+                  "edit": "A",
+                  "view": "A",
+                  "delete": "A",
+                  "export": "A"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": true,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/14964000/?limit=250&page=1"
+            }
+          }
+        },
+        {
+          "id": 15057472,
+          "name": "Luiz Gonzaga",
+          "email": "luizgonzaga@febracis.com.br",
+          "lang": "pt",
+          "rights": {
+            "leads": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "contacts": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "companies": {
+              "view": "A",
+              "edit": "A",
+              "add": "A",
+              "delete": "A",
+              "export": "A"
+            },
+            "tasks": {
+              "edit": "M",
+              "delete": "M"
+            },
+            "mail_access": false,
+            "catalog_access": false,
+            "files_access": false,
+            "status_rights": [
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12344455,
+                "status_id": 95395863,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512675,
+                "status_id": 96645471,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12512679,
+                "status_id": 96645487,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12549611,
+                "status_id": 96926047,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 12569719,
+                "status_id": 97077571,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189276,
+                "status_id": 101703076,
+                "rights": {
+                  "view": "A",
+                  "edit": "A",
+                  "delete": "A"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13189284,
+                "status_id": 101703344,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
+                "pipeline_id": 13235212,
+                "status_id": 102056264,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              }
+            ],
+            "catalog_rights": [
+              {
+                "catalog_id": 47274,
+                "rights": {
+                  "add": "D",
+                  "edit": "D",
+                  "view": "D",
+                  "delete": "D",
+                  "export": "D"
+                }
+              }
+            ],
+            "custom_fields_rights": null,
+            "is_admin": false,
+            "is_free": false,
+            "is_active": true,
+            "group_id": 0,
+            "role_id": null
+          },
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/users/15057472/?limit=250&page=1"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
