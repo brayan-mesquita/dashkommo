@@ -42,9 +42,17 @@ schedule.every().day.at("18:00").do(run_sync)
 schedule.every().day.at("00:00").do(run_sync)
 
 if __name__ == "__main__":
-    print("Serviço de agendamento iniciado (6h/12h/18h/00h)...")
-    # Executa uma vez ao iniciar
-    run_sync()
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--once", action="store_true", help="Executa a sincronização uma única vez e encerra")
+    args = parser.parse_args()
+
+    if args.once:
+        run_sync()
+    else:
+        print("Serviço de agendamento iniciado (6h/12h/18h/00h)...")
+        # Executa uma vez ao iniciar o container
+        run_sync()
+        while True:
+            schedule.run_pending()
+            time.sleep(60)

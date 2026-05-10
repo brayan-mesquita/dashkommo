@@ -63,6 +63,22 @@ elif st.session_state["authentication_status"]:
     st.markdown("Visão consolidada de alta performance e análise de conversão.")
 
     # --- SIDEBAR FILTERS ---
+    st.sidebar.header("Controle de Dados")
+    if st.sidebar.button("🔄 Sincronizar Dados Agora"):
+        with st.sidebar.status("Buscando dados no Kommo..."):
+            try:
+                import subprocess
+                # Chama o scheduler no modo 'uma única vez'
+                result = subprocess.run(["python3", "app/scheduler.py", "--once"], capture_output=True, text=True)
+                if result.returncode == 0:
+                    st.sidebar.success("Sincronização concluída!")
+                    st.rerun()
+                else:
+                    st.sidebar.error(f"Erro na sincronização: {result.stderr}")
+            except Exception as e:
+                st.sidebar.error(f"Falha ao disparar script: {e}")
+
+    st.sidebar.divider()
     st.sidebar.header("Filtros de Visão")
 
     # Filtro de Funil (com opção de TODOS)
