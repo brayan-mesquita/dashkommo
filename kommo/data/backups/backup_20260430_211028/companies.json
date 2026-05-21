@@ -1,0 +1,1910 @@
+{
+  "path": "/api/v4/companies",
+  "embedded_key": "companies",
+  "pages_fetched": 1,
+  "records": 21,
+  "data": [
+    {
+      "id": 61270505,
+      "name": "Empresa Mello Alimentos",
+      "responsible_user_id": 11692279,
+      "group_id": 0,
+      "created_by": 11692279,
+      "updated_by": 11692279,
+      "created_at": 1770737078,
+      "updated_at": 1770737078,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/61270505?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63540507,
+      "name": "Madecon Engenharia",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772047495,
+      "updated_at": 1772047549,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69) 99963-0942",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "http://madeconengenharia.com.br"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "BR-364, 9551 - Cidade Jardim, Porto Velho - RO, 76815-800"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63540507?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63551641,
+      "name": "CREFITO 18",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772048499,
+      "updated_at": 1772048499,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69) 3609-1111",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://crefito18.org.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Avenida 07 de Setembro 2140 Residencial P.V. Service - Nossa Sra. das Graças, Porto Velho - RO, 76804-124"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63551641?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63550287,
+      "name": "CREA-RO",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772048249,
+      "updated_at": 1772048588,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69) 3533-8899",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://www.crearo.org.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "R. Elias Gorayeb, 2596 - Liberdade, Porto Velho - RO, 76803-903"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63550287?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63552239,
+      "name": "SINPOL-RO",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772048861,
+      "updated_at": 1772048876,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "(69) 3043-4972",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            },
+            {
+              "value": "(69) 2141-4444",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262028,
+          "field_name": "Email",
+          "field_code": "EMAIL",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "diretorsocial@sinpolro.com.br",
+              "enum_id": 1002788,
+              "enum_code": "WORK"
+            },
+            {
+              "value": "secretaria@sinpolro.com.br",
+              "enum_id": 1002788,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://www.sinpolro.com.br/site/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Rua João Goulart, 3055 - São João Bosco"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63552239?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63557839,
+      "name": "SISTEMA OCB/RO",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772050573,
+      "updated_at": 1772050573,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "(69) 99961-4247",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262028,
+          "field_name": "Email",
+          "field_code": "EMAIL",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "sistemaocb-ro@rondonia.coop.br",
+              "enum_id": 1002788,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "http://sistemaocb-ro@rondonia.coop.br"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "https://rondonia.coop.br/"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63557839?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 36542640,
+      "name": "Studio Silvia Camilo - salão de beleza",
+      "responsible_user_id": 14206467,
+      "group_id": 0,
+      "created_by": 14206467,
+      "updated_by": 14206467,
+      "created_at": 1764014039,
+      "updated_at": 1772050835,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "556992346336",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/36542640?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 38185582,
+      "name": "Febracis",
+      "responsible_user_id": 14206467,
+      "group_id": 0,
+      "created_by": 14206467,
+      "updated_by": 14206467,
+      "created_at": 1764106986,
+      "updated_at": 1772050835,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/38185582?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 59208157,
+      "name": "Meus bem imóveis",
+      "responsible_user_id": 14206467,
+      "group_id": 0,
+      "created_by": 14206467,
+      "updated_by": 14206467,
+      "created_at": 1769466288,
+      "updated_at": 1772050835,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/59208157?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63558475,
+      "name": "Faculdade Católica de Rondônia",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772050978,
+      "updated_at": 1772050978,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "(69) 3211-4500",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262028,
+          "field_name": "Email",
+          "field_code": "EMAIL",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "fcr@fcr.edu.br",
+              "enum_id": 1002788,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://fcr.edu.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Avenida Governador Jorge Teixeira de Oliveira, n. 4100, bairro Costa e Silva, CEP 76803-281, Porto Velho-RO"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63558475?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63558973,
+      "name": "Dydyo Refrigerantes",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772051260,
+      "updated_at": 1772051260,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69 3216 0458",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://dydyo.com.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Rua Raimundo Cantuária, 7761 - Porto Velho - RO"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63558973?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63559177,
+      "name": "FAPERON",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772051358,
+      "updated_at": 1772051358,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "(69) 3214-8371",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://sistemafaperon.org.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Rua João Goulart, 1843 - Nossa Sra. das Graças, Porto Velho - RO, 78915-450"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63559177?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63560827,
+      "name": "Social Imóveis",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772051448,
+      "updated_at": 1772051799,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69) 99981-0800",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://www.socialimoveis.com.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Av. Carlos Gomes, 2837 - São Cristóvão, Porto Velho - RO, 76804-021"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63560827?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63562091,
+      "name": "Grupo Aparício Carvalho",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772051864,
+      "updated_at": 1772051864,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "(69) 3217-8900",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://www.fimca.com.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "R. das Ararás, 241 - Eldorado, Porto Velho - RO, 76811-678"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63562091?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63563955,
+      "name": "Federação das Indústrias do Estado de Rondônia",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772052005,
+      "updated_at": 1772052005,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262026,
+          "field_name": "Phone",
+          "field_code": "PHONE",
+          "field_type": "multitext",
+          "values": [
+            {
+              "value": "69) 3216-3400",
+              "enum_id": 1002776,
+              "enum_code": "WORK"
+            }
+          ]
+        },
+        {
+          "field_id": 1262030,
+          "field_name": "Web",
+          "field_code": "WEB",
+          "field_type": "url",
+          "values": [
+            {
+              "value": "https://portal.fiero.org.br/"
+            }
+          ]
+        },
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Rua Rui Barbosa, 1112 - Arigolândia, 76801-186 - Porto Velho - Rondônia - Brasil"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63563955?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 63701281,
+      "name": "Zona sul - tijolo",
+      "responsible_user_id": 14830388,
+      "group_id": 0,
+      "created_by": 14830388,
+      "updated_by": 14830388,
+      "created_at": 1772116452,
+      "updated_at": 1772116742,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63701281?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 64305781,
+      "name": "Ping.",
+      "responsible_user_id": 14836748,
+      "group_id": 691116,
+      "created_by": 14836748,
+      "updated_by": 14836748,
+      "created_at": 1772465107,
+      "updated_at": 1772465107,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/64305781?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 69872903,
+      "name": "https://www.pauloodorico.com.br/treinamentos",
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776726991,
+      "updated_at": 1776726991,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69872903?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 69890031,
+      "name": "Dra Ilma Freitas Concept",
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776785961,
+      "updated_at": 1776785961,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "Av. Rio Madeira, 2680 - Agenor M. de Carvalho, Porto Velho - RO, 76820-392"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69890031?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 70309867,
+      "name": "Líder de Equipe",
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1777471894,
+      "updated_at": 1777471894,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": null,
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/70309867?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    },
+    {
+      "id": 69494163,
+      "name": "HRC - Hospital Regional de Cacoal",
+      "responsible_user_id": 15057472,
+      "group_id": 0,
+      "created_by": 15057472,
+      "updated_by": 15057472,
+      "created_at": 1776088956,
+      "updated_at": 1777586188,
+      "closest_task_at": null,
+      "is_deleted": false,
+      "custom_fields_values": [
+        {
+          "field_id": 1262032,
+          "field_name": "Address",
+          "field_code": "ADDRESS",
+          "field_type": "textarea",
+          "values": [
+            {
+              "value": "HOSPITAL REGIONAL DE CACOAL\nAvenida Malaquita, 3581, Josino Brito- Cacoal/RO\nCEP 76961-887"
+            }
+          ]
+        }
+      ],
+      "account_id": 35477775,
+      "_links": {
+        "self": {
+          "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69494163?limit=250&page=1"
+        }
+      },
+      "_embedded": {
+        "tags": []
+      }
+    }
+  ],
+  "last_page": {
+    "_page": 1,
+    "_links": {
+      "self": {
+        "href": "https://crmfbcpvh.kommo.com/api/v4/companies?limit=250&page=1"
+      }
+    },
+    "_embedded": {
+      "companies": [
+        {
+          "id": 61270505,
+          "name": "Empresa Mello Alimentos",
+          "responsible_user_id": 11692279,
+          "group_id": 0,
+          "created_by": 11692279,
+          "updated_by": 11692279,
+          "created_at": 1770737078,
+          "updated_at": 1770737078,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/61270505?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63540507,
+          "name": "Madecon Engenharia",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772047495,
+          "updated_at": 1772047549,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69) 99963-0942",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "http://madeconengenharia.com.br"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "BR-364, 9551 - Cidade Jardim, Porto Velho - RO, 76815-800"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63540507?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63551641,
+          "name": "CREFITO 18",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772048499,
+          "updated_at": 1772048499,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69) 3609-1111",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://crefito18.org.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Avenida 07 de Setembro 2140 Residencial P.V. Service - Nossa Sra. das Graças, Porto Velho - RO, 76804-124"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63551641?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63550287,
+          "name": "CREA-RO",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772048249,
+          "updated_at": 1772048588,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69) 3533-8899",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://www.crearo.org.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "R. Elias Gorayeb, 2596 - Liberdade, Porto Velho - RO, 76803-903"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63550287?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63552239,
+          "name": "SINPOL-RO",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772048861,
+          "updated_at": 1772048876,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "(69) 3043-4972",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                },
+                {
+                  "value": "(69) 2141-4444",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262028,
+              "field_name": "Email",
+              "field_code": "EMAIL",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "diretorsocial@sinpolro.com.br",
+                  "enum_id": 1002788,
+                  "enum_code": "WORK"
+                },
+                {
+                  "value": "secretaria@sinpolro.com.br",
+                  "enum_id": 1002788,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://www.sinpolro.com.br/site/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Rua João Goulart, 3055 - São João Bosco"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63552239?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63557839,
+          "name": "SISTEMA OCB/RO",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772050573,
+          "updated_at": 1772050573,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "(69) 99961-4247",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262028,
+              "field_name": "Email",
+              "field_code": "EMAIL",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "sistemaocb-ro@rondonia.coop.br",
+                  "enum_id": 1002788,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "http://sistemaocb-ro@rondonia.coop.br"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "https://rondonia.coop.br/"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63557839?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 36542640,
+          "name": "Studio Silvia Camilo - salão de beleza",
+          "responsible_user_id": 14206467,
+          "group_id": 0,
+          "created_by": 14206467,
+          "updated_by": 14206467,
+          "created_at": 1764014039,
+          "updated_at": 1772050835,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "556992346336",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/36542640?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 38185582,
+          "name": "Febracis",
+          "responsible_user_id": 14206467,
+          "group_id": 0,
+          "created_by": 14206467,
+          "updated_by": 14206467,
+          "created_at": 1764106986,
+          "updated_at": 1772050835,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/38185582?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 59208157,
+          "name": "Meus bem imóveis",
+          "responsible_user_id": 14206467,
+          "group_id": 0,
+          "created_by": 14206467,
+          "updated_by": 14206467,
+          "created_at": 1769466288,
+          "updated_at": 1772050835,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/59208157?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63558475,
+          "name": "Faculdade Católica de Rondônia",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772050978,
+          "updated_at": 1772050978,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "(69) 3211-4500",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262028,
+              "field_name": "Email",
+              "field_code": "EMAIL",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "fcr@fcr.edu.br",
+                  "enum_id": 1002788,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://fcr.edu.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Avenida Governador Jorge Teixeira de Oliveira, n. 4100, bairro Costa e Silva, CEP 76803-281, Porto Velho-RO"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63558475?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63558973,
+          "name": "Dydyo Refrigerantes",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772051260,
+          "updated_at": 1772051260,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69 3216 0458",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://dydyo.com.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Rua Raimundo Cantuária, 7761 - Porto Velho - RO"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63558973?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63559177,
+          "name": "FAPERON",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772051358,
+          "updated_at": 1772051358,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "(69) 3214-8371",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://sistemafaperon.org.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Rua João Goulart, 1843 - Nossa Sra. das Graças, Porto Velho - RO, 78915-450"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63559177?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63560827,
+          "name": "Social Imóveis",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772051448,
+          "updated_at": 1772051799,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69) 99981-0800",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://www.socialimoveis.com.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Av. Carlos Gomes, 2837 - São Cristóvão, Porto Velho - RO, 76804-021"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63560827?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63562091,
+          "name": "Grupo Aparício Carvalho",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772051864,
+          "updated_at": 1772051864,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "(69) 3217-8900",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://www.fimca.com.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "R. das Ararás, 241 - Eldorado, Porto Velho - RO, 76811-678"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63562091?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63563955,
+          "name": "Federação das Indústrias do Estado de Rondônia",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772052005,
+          "updated_at": 1772052005,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262026,
+              "field_name": "Phone",
+              "field_code": "PHONE",
+              "field_type": "multitext",
+              "values": [
+                {
+                  "value": "69) 3216-3400",
+                  "enum_id": 1002776,
+                  "enum_code": "WORK"
+                }
+              ]
+            },
+            {
+              "field_id": 1262030,
+              "field_name": "Web",
+              "field_code": "WEB",
+              "field_type": "url",
+              "values": [
+                {
+                  "value": "https://portal.fiero.org.br/"
+                }
+              ]
+            },
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Rua Rui Barbosa, 1112 - Arigolândia, 76801-186 - Porto Velho - Rondônia - Brasil"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63563955?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 63701281,
+          "name": "Zona sul - tijolo",
+          "responsible_user_id": 14830388,
+          "group_id": 0,
+          "created_by": 14830388,
+          "updated_by": 14830388,
+          "created_at": 1772116452,
+          "updated_at": 1772116742,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/63701281?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 64305781,
+          "name": "Ping.",
+          "responsible_user_id": 14836748,
+          "group_id": 691116,
+          "created_by": 14836748,
+          "updated_by": 14836748,
+          "created_at": 1772465107,
+          "updated_at": 1772465107,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/64305781?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 69872903,
+          "name": "https://www.pauloodorico.com.br/treinamentos",
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776726991,
+          "updated_at": 1776726991,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69872903?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 69890031,
+          "name": "Dra Ilma Freitas Concept",
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776785961,
+          "updated_at": 1776785961,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "Av. Rio Madeira, 2680 - Agenor M. de Carvalho, Porto Velho - RO, 76820-392"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69890031?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 70309867,
+          "name": "Líder de Equipe",
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1777471894,
+          "updated_at": 1777471894,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": null,
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/70309867?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        },
+        {
+          "id": 69494163,
+          "name": "HRC - Hospital Regional de Cacoal",
+          "responsible_user_id": 15057472,
+          "group_id": 0,
+          "created_by": 15057472,
+          "updated_by": 15057472,
+          "created_at": 1776088956,
+          "updated_at": 1777586188,
+          "closest_task_at": null,
+          "is_deleted": false,
+          "custom_fields_values": [
+            {
+              "field_id": 1262032,
+              "field_name": "Address",
+              "field_code": "ADDRESS",
+              "field_type": "textarea",
+              "values": [
+                {
+                  "value": "HOSPITAL REGIONAL DE CACOAL\nAvenida Malaquita, 3581, Josino Brito- Cacoal/RO\nCEP 76961-887"
+                }
+              ]
+            }
+          ],
+          "account_id": 35477775,
+          "_links": {
+            "self": {
+              "href": "https://crmfbcpvh.kommo.com/api/v4/companies/69494163?limit=250&page=1"
+            }
+          },
+          "_embedded": {
+            "tags": []
+          }
+        }
+      ]
+    }
+  }
+}

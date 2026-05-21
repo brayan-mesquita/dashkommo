@@ -1,0 +1,90 @@
+{
+  "timestamp": "20260430_211159",
+  "backup_directory": "/Users/brayan/Documents/PROJETOS/Febracis/kommo/data/backups/backup_20260430_211159",
+  "results": {
+    "account": {
+      "status": "success",
+      "count": "1 (single)",
+      "file": "account.json"
+    },
+    "users": {
+      "status": "success",
+      "count": 11,
+      "file": "users.json"
+    },
+    "pipelines": {
+      "status": "success",
+      "count": 9,
+      "file": "pipelines.json"
+    },
+    "lead-custom-fields": {
+      "status": "success",
+      "count": 15,
+      "file": "lead_custom_fields.json"
+    },
+    "contact-custom-fields": {
+      "status": "success",
+      "count": 7,
+      "file": "contact_custom_fields.json"
+    },
+    "company-custom-fields": {
+      "status": "success",
+      "count": 4,
+      "file": "company_custom_fields.json"
+    },
+    "/api/v4/leads/loss_reasons": {
+      "status": "success",
+      "count": 4,
+      "file": "loss_reasons.json"
+    },
+    "/api/v4/bots": {
+      "status": "success",
+      "count": 38,
+      "file": "salesbots.json"
+    },
+    "/api/v4/webhooks": {
+      "status": "success",
+      "count": 1,
+      "file": "webhooks.json"
+    },
+    "catalogs": {
+      "status": "success",
+      "count": 1,
+      "file": "catalogs.json"
+    },
+    "leads": {
+      "status": "success",
+      "count": 3685,
+      "file": "leads.json"
+    },
+    "contacts": {
+      "status": "success",
+      "count": 6388,
+      "file": "contacts.json"
+    },
+    "companies": {
+      "status": "success",
+      "count": 21,
+      "file": "companies.json"
+    },
+    "tasks": {
+      "status": "success",
+      "count": 361,
+      "file": "tasks.json"
+    },
+    "lead-notes": {
+      "status": "success",
+      "count": 105,
+      "file": "lead_notes.json"
+    },
+    "contact-notes": {
+      "status": "success",
+      "count": 28,
+      "file": "contact_notes.json"
+    },
+    "company-notes": {
+      "status": "error",
+      "message": "Resposta não-JSON ao consultar https://crmfbcpvh.kommo.com/api/v4/companies/notes: Expecting value: line 1 column 1 (char 0)"
+    }
+  }
+}

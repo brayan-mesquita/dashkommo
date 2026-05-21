@@ -21,7 +21,7 @@
         "statuses": [
           {
             "id": 96645471,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 12512675,
@@ -35,24 +35,9 @@
             }
           },
           {
-            "id": 99854300,
-            "name": "TRANSFERIDO DA IA",
-            "sort": 20,
-            "is_editable": true,
-            "pipeline_id": 12512675,
-            "color": "#99ccff",
-            "type": 0,
-            "account_id": 35477775,
-            "_links": {
-              "self": {
-                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12512675/statuses/99854300"
-              }
-            }
-          },
-          {
             "id": 96645475,
             "name": "PRIMEIRO Contato",
-            "sort": 30,
+            "sort": 20,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -67,7 +52,7 @@
           {
             "id": 96645479,
             "name": "DESENVOLVIMENTO",
-            "sort": 40,
+            "sort": 30,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#ffff99",
@@ -82,7 +67,7 @@
           {
             "id": 99854664,
             "name": "AGENDADO PARA REUNIÃO/VISITA",
-            "sort": 50,
+            "sort": 40,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -97,7 +82,7 @@
           {
             "id": 96645483,
             "name": "NEGOCIAÇÃO/PROPOSTA FEITA",
-            "sort": 60,
+            "sort": 50,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#ffcc66",
@@ -112,7 +97,7 @@
           {
             "id": 103395976,
             "name": "FOLLOW UP 1",
-            "sort": 70,
+            "sort": 60,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -127,7 +112,7 @@
           {
             "id": 103395980,
             "name": "FOLLOW UP 2",
-            "sort": 80,
+            "sort": 70,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -142,7 +127,7 @@
           {
             "id": 103395984,
             "name": "FOLLOW UP 3",
-            "sort": 90,
+            "sort": 80,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -157,7 +142,7 @@
           {
             "id": 103395988,
             "name": "FOLLOW UP 4",
-            "sort": 100,
+            "sort": 90,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -172,7 +157,7 @@
           {
             "id": 103395992,
             "name": "FOLLOW UP 5",
-            "sort": 110,
+            "sort": 100,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -187,7 +172,7 @@
           {
             "id": 99854668,
             "name": "CARTEIRA DE CLIENTES HELEN",
-            "sort": 120,
+            "sort": 110,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -202,7 +187,7 @@
           {
             "id": 99858092,
             "name": "TIME",
-            "sort": 130,
+            "sort": 120,
             "is_editable": true,
             "pipeline_id": 12512675,
             "color": "#99ccff",
@@ -264,7 +249,7 @@
         "statuses": [
           {
             "id": 96926047,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 12549611,
@@ -492,7 +477,7 @@
         "statuses": [
           {
             "id": 96645487,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 12512679,
@@ -600,7 +585,7 @@
         "statuses": [
           {
             "id": 97077571,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 12569719,
@@ -629,9 +614,69 @@
             }
           },
           {
+            "id": 106427324,
+            "name": "ONBOARD",
+            "sort": 30,
+            "is_editable": true,
+            "pipeline_id": 12569719,
+            "color": "#99ccff",
+            "type": 0,
+            "account_id": 35477775,
+            "_links": {
+              "self": {
+                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427324"
+              }
+            }
+          },
+          {
+            "id": 106427328,
+            "name": "NOVOS INICIOS",
+            "sort": 40,
+            "is_editable": true,
+            "pipeline_id": 12569719,
+            "color": "#99ccff",
+            "type": 0,
+            "account_id": 35477775,
+            "_links": {
+              "self": {
+                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427328"
+              }
+            }
+          },
+          {
+            "id": 106427332,
+            "name": "ATIVOS",
+            "sort": 50,
+            "is_editable": true,
+            "pipeline_id": 12569719,
+            "color": "#99ccff",
+            "type": 0,
+            "account_id": 35477775,
+            "_links": {
+              "self": {
+                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427332"
+              }
+            }
+          },
+          {
+            "id": 106427336,
+            "name": "OBSERVAÇÃO",
+            "sort": 60,
+            "is_editable": true,
+            "pipeline_id": 12569719,
+            "color": "#99ccff",
+            "type": 0,
+            "account_id": 35477775,
+            "_links": {
+              "self": {
+                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427336"
+              }
+            }
+          },
+          {
             "id": 100101232,
             "name": "CARTEIRA DE CLIENTE - ERICA",
-            "sort": 30,
+            "sort": 70,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -646,7 +691,7 @@
           {
             "id": 100100340,
             "name": "ACOMPANHAMENTO ERICA",
-            "sort": 40,
+            "sort": 80,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -661,7 +706,7 @@
           {
             "id": 100101236,
             "name": "CARTEIRA DE CLIENTE - CRIS",
-            "sort": 50,
+            "sort": 90,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -676,7 +721,7 @@
           {
             "id": 100100344,
             "name": "ACOMPANHAMENTO CRIS",
-            "sort": 60,
+            "sort": 100,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -691,7 +736,7 @@
           {
             "id": 101436492,
             "name": "CLIENTES EDS",
-            "sort": 70,
+            "sort": 110,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -706,7 +751,7 @@
           {
             "id": 97077659,
             "name": "ATIVOS",
-            "sort": 80,
+            "sort": 120,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -721,7 +766,7 @@
           {
             "id": 97077663,
             "name": "INATIVOS",
-            "sort": 90,
+            "sort": 130,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -736,7 +781,7 @@
           {
             "id": 97077667,
             "name": "FOLLOW UP",
-            "sort": 100,
+            "sort": 140,
             "is_editable": true,
             "pipeline_id": 12569719,
             "color": "#99ccff",
@@ -798,7 +843,7 @@
         "statuses": [
           {
             "id": 101703076,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 13189276,
@@ -936,7 +981,7 @@
         "statuses": [
           {
             "id": 101703260,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 13189280,
@@ -1149,7 +1194,7 @@
         "statuses": [
           {
             "id": 101703344,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 13189284,
@@ -1283,24 +1328,9 @@
             }
           },
           {
-            "id": 102027992,
-            "name": "LEAD SEM SUCESSO APÓS CADÊNCIA",
-            "sort": 100,
-            "is_editable": true,
-            "pipeline_id": 13189284,
-            "color": "#99ccff",
-            "type": 0,
-            "account_id": 35477775,
-            "_links": {
-              "self": {
-                "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/13189284/statuses/102027992"
-              }
-            }
-          },
-          {
             "id": 103399420,
             "name": "CARTEIRA DE CLIENTES",
-            "sort": 110,
+            "sort": 100,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1315,7 +1345,7 @@
           {
             "id": 102026352,
             "name": "PROSPECÇÃO ATIVA CLOSER",
-            "sort": 120,
+            "sort": 110,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1330,7 +1360,7 @@
           {
             "id": 102026356,
             "name": "DESENVOLVIMENTO PROSPECÇÃO",
-            "sort": 130,
+            "sort": 120,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1345,7 +1375,7 @@
           {
             "id": 102026360,
             "name": "REUNIÃO AGENDADA",
-            "sort": 140,
+            "sort": 130,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1360,7 +1390,7 @@
           {
             "id": 102026364,
             "name": "PROPOSTA FEITA",
-            "sort": 150,
+            "sort": 140,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1375,7 +1405,7 @@
           {
             "id": 104058604,
             "name": "TIME",
-            "sort": 160,
+            "sort": 150,
             "is_editable": true,
             "pipeline_id": 13189284,
             "color": "#99ccff",
@@ -1437,7 +1467,7 @@
         "statuses": [
           {
             "id": 102056264,
-            "name": "Etapa de leads de entrada",
+            "name": "Incoming leads",
             "sort": 10,
             "is_editable": false,
             "pipeline_id": 13235212,
@@ -1738,7 +1768,7 @@
             "statuses": [
               {
                 "id": 96645471,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 12512675,
@@ -1752,24 +1782,9 @@
                 }
               },
               {
-                "id": 99854300,
-                "name": "TRANSFERIDO DA IA",
-                "sort": 20,
-                "is_editable": true,
-                "pipeline_id": 12512675,
-                "color": "#99ccff",
-                "type": 0,
-                "account_id": 35477775,
-                "_links": {
-                  "self": {
-                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12512675/statuses/99854300"
-                  }
-                }
-              },
-              {
                 "id": 96645475,
                 "name": "PRIMEIRO Contato",
-                "sort": 30,
+                "sort": 20,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1784,7 +1799,7 @@
               {
                 "id": 96645479,
                 "name": "DESENVOLVIMENTO",
-                "sort": 40,
+                "sort": 30,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#ffff99",
@@ -1799,7 +1814,7 @@
               {
                 "id": 99854664,
                 "name": "AGENDADO PARA REUNIÃO/VISITA",
-                "sort": 50,
+                "sort": 40,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1814,7 +1829,7 @@
               {
                 "id": 96645483,
                 "name": "NEGOCIAÇÃO/PROPOSTA FEITA",
-                "sort": 60,
+                "sort": 50,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#ffcc66",
@@ -1829,7 +1844,7 @@
               {
                 "id": 103395976,
                 "name": "FOLLOW UP 1",
-                "sort": 70,
+                "sort": 60,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1844,7 +1859,7 @@
               {
                 "id": 103395980,
                 "name": "FOLLOW UP 2",
-                "sort": 80,
+                "sort": 70,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1859,7 +1874,7 @@
               {
                 "id": 103395984,
                 "name": "FOLLOW UP 3",
-                "sort": 90,
+                "sort": 80,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1874,7 +1889,7 @@
               {
                 "id": 103395988,
                 "name": "FOLLOW UP 4",
-                "sort": 100,
+                "sort": 90,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1889,7 +1904,7 @@
               {
                 "id": 103395992,
                 "name": "FOLLOW UP 5",
-                "sort": 110,
+                "sort": 100,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1904,7 +1919,7 @@
               {
                 "id": 99854668,
                 "name": "CARTEIRA DE CLIENTES HELEN",
-                "sort": 120,
+                "sort": 110,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1919,7 +1934,7 @@
               {
                 "id": 99858092,
                 "name": "TIME",
-                "sort": 130,
+                "sort": 120,
                 "is_editable": true,
                 "pipeline_id": 12512675,
                 "color": "#99ccff",
@@ -1981,7 +1996,7 @@
             "statuses": [
               {
                 "id": 96926047,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 12549611,
@@ -2209,7 +2224,7 @@
             "statuses": [
               {
                 "id": 96645487,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 12512679,
@@ -2317,7 +2332,7 @@
             "statuses": [
               {
                 "id": 97077571,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 12569719,
@@ -2346,9 +2361,69 @@
                 }
               },
               {
+                "id": 106427324,
+                "name": "ONBOARD",
+                "sort": 30,
+                "is_editable": true,
+                "pipeline_id": 12569719,
+                "color": "#99ccff",
+                "type": 0,
+                "account_id": 35477775,
+                "_links": {
+                  "self": {
+                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427324"
+                  }
+                }
+              },
+              {
+                "id": 106427328,
+                "name": "NOVOS INICIOS",
+                "sort": 40,
+                "is_editable": true,
+                "pipeline_id": 12569719,
+                "color": "#99ccff",
+                "type": 0,
+                "account_id": 35477775,
+                "_links": {
+                  "self": {
+                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427328"
+                  }
+                }
+              },
+              {
+                "id": 106427332,
+                "name": "ATIVOS",
+                "sort": 50,
+                "is_editable": true,
+                "pipeline_id": 12569719,
+                "color": "#99ccff",
+                "type": 0,
+                "account_id": 35477775,
+                "_links": {
+                  "self": {
+                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427332"
+                  }
+                }
+              },
+              {
+                "id": 106427336,
+                "name": "OBSERVAÇÃO",
+                "sort": 60,
+                "is_editable": true,
+                "pipeline_id": 12569719,
+                "color": "#99ccff",
+                "type": 0,
+                "account_id": 35477775,
+                "_links": {
+                  "self": {
+                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/12569719/statuses/106427336"
+                  }
+                }
+              },
+              {
                 "id": 100101232,
                 "name": "CARTEIRA DE CLIENTE - ERICA",
-                "sort": 30,
+                "sort": 70,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2363,7 +2438,7 @@
               {
                 "id": 100100340,
                 "name": "ACOMPANHAMENTO ERICA",
-                "sort": 40,
+                "sort": 80,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2378,7 +2453,7 @@
               {
                 "id": 100101236,
                 "name": "CARTEIRA DE CLIENTE - CRIS",
-                "sort": 50,
+                "sort": 90,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2393,7 +2468,7 @@
               {
                 "id": 100100344,
                 "name": "ACOMPANHAMENTO CRIS",
-                "sort": 60,
+                "sort": 100,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2408,7 +2483,7 @@
               {
                 "id": 101436492,
                 "name": "CLIENTES EDS",
-                "sort": 70,
+                "sort": 110,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2423,7 +2498,7 @@
               {
                 "id": 97077659,
                 "name": "ATIVOS",
-                "sort": 80,
+                "sort": 120,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2438,7 +2513,7 @@
               {
                 "id": 97077663,
                 "name": "INATIVOS",
-                "sort": 90,
+                "sort": 130,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2453,7 +2528,7 @@
               {
                 "id": 97077667,
                 "name": "FOLLOW UP",
-                "sort": 100,
+                "sort": 140,
                 "is_editable": true,
                 "pipeline_id": 12569719,
                 "color": "#99ccff",
@@ -2515,7 +2590,7 @@
             "statuses": [
               {
                 "id": 101703076,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 13189276,
@@ -2653,7 +2728,7 @@
             "statuses": [
               {
                 "id": 101703260,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 13189280,
@@ -2866,7 +2941,7 @@
             "statuses": [
               {
                 "id": 101703344,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 13189284,
@@ -3000,24 +3075,9 @@
                 }
               },
               {
-                "id": 102027992,
-                "name": "LEAD SEM SUCESSO APÓS CADÊNCIA",
-                "sort": 100,
-                "is_editable": true,
-                "pipeline_id": 13189284,
-                "color": "#99ccff",
-                "type": 0,
-                "account_id": 35477775,
-                "_links": {
-                  "self": {
-                    "href": "https://crmfbcpvh.kommo.com/api/v4/leads/pipelines/13189284/statuses/102027992"
-                  }
-                }
-              },
-              {
                 "id": 103399420,
                 "name": "CARTEIRA DE CLIENTES",
-                "sort": 110,
+                "sort": 100,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3032,7 +3092,7 @@
               {
                 "id": 102026352,
                 "name": "PROSPECÇÃO ATIVA CLOSER",
-                "sort": 120,
+                "sort": 110,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3047,7 +3107,7 @@
               {
                 "id": 102026356,
                 "name": "DESENVOLVIMENTO PROSPECÇÃO",
-                "sort": 130,
+                "sort": 120,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3062,7 +3122,7 @@
               {
                 "id": 102026360,
                 "name": "REUNIÃO AGENDADA",
-                "sort": 140,
+                "sort": 130,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3077,7 +3137,7 @@
               {
                 "id": 102026364,
                 "name": "PROPOSTA FEITA",
-                "sort": 150,
+                "sort": 140,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3092,7 +3152,7 @@
               {
                 "id": 104058604,
                 "name": "TIME",
-                "sort": 160,
+                "sort": 150,
                 "is_editable": true,
                 "pipeline_id": 13189284,
                 "color": "#99ccff",
@@ -3154,7 +3214,7 @@
             "statuses": [
               {
                 "id": 102056264,
-                "name": "Etapa de leads de entrada",
+                "name": "Incoming leads",
                 "sort": 10,
                 "is_editable": false,
                 "pipeline_id": 13235212,

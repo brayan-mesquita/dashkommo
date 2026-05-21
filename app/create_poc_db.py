@@ -75,7 +75,9 @@ def load_data():
     # Carregar Leads
     with open(DATA_DIR / 'leads_current.json', 'r') as f:
         leads_data = json.load(f)['data']
+        active_ids = []
         for l in leads_data:
+            active_ids.append(l['id'])
             created_at = datetime.fromtimestamp(l['created_at']).strftime('%Y-%m-%d %H:%M:%S')
             tags_list = [tag['name'] for tag in l.get('_embedded', {}).get('tags', [])]
             tags_str = json.dumps(tags_list)
@@ -83,6 +85,11 @@ def load_data():
                 INSERT OR REPLACE INTO leads (id, name, price, responsible_user_id, status_id, pipeline_id, created_at, loss_reason_id, tags)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', (l['id'], l['name'], l['price'], l['responsible_user_id'], l['status_id'], l['pipeline_id'], created_at, l.get('loss_reason_id'), tags_str))
+            
+        # Limpar registros obsoletos (leads excluídos no Kommo)
+        if active_ids:
+            placeholders = ','.join(['?'] * len(active_ids))
+            conn.execute(f'DELETE FROM leads WHERE id NOT IN ({placeholders})', active_ids)
 
     conn.commit()
     conn.close()

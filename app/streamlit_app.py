@@ -30,7 +30,7 @@ stauth.Hasher.hash_passwords(credentials)
 
 authenticator = stauth.Authenticate(
     credentials,
-    "kommo_dashboard",
+    "kommo_dashboard_v2",
     "auth_cookie",
     cookie_expiry_days=30
 )

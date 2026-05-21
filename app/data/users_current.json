@@ -11,15 +11,15 @@
       "lang": "pt",
       "rights": {
         "leads": {
-          "view": "M",
-          "edit": "M",
+          "view": "G",
+          "edit": "G",
           "add": "A",
           "delete": "M",
           "export": "M"
         },
         "contacts": {
-          "view": "M",
-          "edit": "M",
+          "view": "G",
+          "edit": "G",
           "add": "A",
           "delete": "M",
           "export": "M"
@@ -146,7 +146,7 @@
         "is_admin": false,
         "is_free": false,
         "is_active": true,
-        "group_id": 0,
+        "group_id": 706120,
         "role_id": null
       },
       "_links": {
@@ -766,15 +766,15 @@
       "lang": "pt",
       "rights": {
         "leads": {
-          "view": "M",
-          "edit": "M",
+          "view": "G",
+          "edit": "G",
           "add": "A",
           "delete": "D",
           "export": "M"
         },
         "contacts": {
-          "view": "M",
-          "edit": "M",
+          "view": "G",
+          "edit": "G",
           "add": "A",
           "delete": "D",
           "export": "M"
@@ -856,6 +856,16 @@
           },
           {
             "entity_type": "leads",
+            "pipeline_id": 13189280,
+            "status_id": 101703260,
+            "rights": {
+              "view": "D",
+              "edit": "D",
+              "delete": "D"
+            }
+          },
+          {
+            "entity_type": "leads",
             "pipeline_id": 13189284,
             "status_id": 101703344,
             "rights": {
@@ -868,16 +878,6 @@
             "entity_type": "leads",
             "pipeline_id": 13235212,
             "status_id": 102056264,
-            "rights": {
-              "view": "D",
-              "edit": "D",
-              "delete": "D"
-            }
-          },
-          {
-            "entity_type": "leads",
-            "pipeline_id": 13189280,
-            "status_id": 101703260,
             "rights": {
               "view": "D",
               "edit": "D",
@@ -901,7 +901,7 @@
         "is_admin": false,
         "is_free": false,
         "is_active": true,
-        "group_id": 0,
+        "group_id": 706120,
         "role_id": null
       },
       "_links": {
@@ -1684,15 +1684,15 @@
           "lang": "pt",
           "rights": {
             "leads": {
-              "view": "M",
-              "edit": "M",
+              "view": "G",
+              "edit": "G",
               "add": "A",
               "delete": "M",
               "export": "M"
             },
             "contacts": {
-              "view": "M",
-              "edit": "M",
+              "view": "G",
+              "edit": "G",
               "add": "A",
               "delete": "M",
               "export": "M"
@@ -1819,7 +1819,7 @@
             "is_admin": false,
             "is_free": false,
             "is_active": true,
-            "group_id": 0,
+            "group_id": 706120,
             "role_id": null
           },
           "_links": {
@@ -2439,15 +2439,15 @@
           "lang": "pt",
           "rights": {
             "leads": {
-              "view": "M",
-              "edit": "M",
+              "view": "G",
+              "edit": "G",
               "add": "A",
               "delete": "D",
               "export": "M"
             },
             "contacts": {
-              "view": "M",
-              "edit": "M",
+              "view": "G",
+              "edit": "G",
               "add": "A",
               "delete": "D",
               "export": "M"
@@ -2529,6 +2529,16 @@
               },
               {
                 "entity_type": "leads",
+                "pipeline_id": 13189280,
+                "status_id": 101703260,
+                "rights": {
+                  "view": "D",
+                  "edit": "D",
+                  "delete": "D"
+                }
+              },
+              {
+                "entity_type": "leads",
                 "pipeline_id": 13189284,
                 "status_id": 101703344,
                 "rights": {
@@ -2541,16 +2551,6 @@
                 "entity_type": "leads",
                 "pipeline_id": 13235212,
                 "status_id": 102056264,
-                "rights": {
-                  "view": "D",
-                  "edit": "D",
-                  "delete": "D"
-                }
-              },
-              {
-                "entity_type": "leads",
-                "pipeline_id": 13189280,
-                "status_id": 101703260,
                 "rights": {
                   "view": "D",
                   "edit": "D",
@@ -2574,7 +2574,7 @@
             "is_admin": false,
             "is_free": false,
             "is_active": true,
-            "group_id": 0,
+            "group_id": 706120,
             "role_id": null
           },
           "_links": {
