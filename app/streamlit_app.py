@@ -8,7 +8,7 @@ from collections import Counter
 import streamlit_authenticator as stauth
 import yaml
 from yaml.loader import SafeLoader
-
+from datetime import datetime, timedelta
 st.set_page_config(page_title="Inteligência de Vendas - Febracis", layout="wide")
 
 # --- AUTHENTICATION ---
@@ -86,22 +86,49 @@ elif st.session_state["authentication_status"]:
     pipeline_options = ["Todos os Funis"] + list(pipelines_df['name'])
     selected_pipeline = st.sidebar.selectbox("Selecione o Funil", pipeline_options)
 
-    # Filtro de Data
-    st.sidebar.subheader("Período de Criação")
-    min_date_query = "SELECT MIN(created_at) FROM leads"
-    max_date_query = "SELECT MAX(created_at) FROM leads"
-    db_min_date = pd.to_datetime(get_data(min_date_query).iloc[0,0]).date()
-    db_max_date = pd.to_datetime(get_data(max_date_query).iloc[0,0]).date()
+    # Filtro de Vendedor
+    users_df = get_data("SELECT * FROM users")
+    user_options = ["Todos os Vendedores"] + list(users_df['name'])
+    selected_user = st.sidebar.selectbox("Selecione o Vendedor", user_options)
 
-    start_date = st.sidebar.date_input("Data Inicial", db_min_date, format="DD/MM/YYYY")
-    end_date = st.sidebar.date_input("Data Final", db_max_date, format="DD/MM/YYYY")
+    # Filtro de Data Rápido
+    st.sidebar.subheader("Período de Criação")
+    date_preset = st.sidebar.selectbox(
+        "Atalho de Data",
+        ["Todo o Período", "Este Mês", "Mês Anterior", "Últimos 7 Dias", "Personalizado"]
+    )
+
+    hoje = datetime.now().date()
+    db_min_date = pd.to_datetime(get_data("SELECT MIN(created_at) FROM leads").iloc[0,0]).date()
+    db_max_date = pd.to_datetime(get_data("SELECT MAX(created_at) FROM leads").iloc[0,0]).date()
+
+    if date_preset == "Todo o Período":
+        start_date, end_date = db_min_date, db_max_date
+    elif date_preset == "Este Mês":
+        start_date = hoje.replace(day=1)
+        end_date = hoje
+    elif date_preset == "Mês Anterior":
+        end_date = hoje.replace(day=1) - timedelta(days=1)
+        start_date = end_date.replace(day=1)
+    elif date_preset == "Últimos 7 Dias":
+        start_date = hoje - timedelta(days=7)
+        end_date = hoje
+    else:
+        start_date = st.sidebar.date_input("Data Inicial", db_min_date, format="DD/MM/YYYY")
+        end_date = st.sidebar.date_input("Data Final", db_max_date, format="DD/MM/YYYY")
 
     # --- DATA LOADING ---
-    if selected_pipeline == "Todos os Funis":
-        where_clause = f"WHERE DATE(l.created_at) BETWEEN '{start_date}' AND '{end_date}'"
-    else:
+    where_conditions = [f"DATE(l.created_at) BETWEEN '{start_date}' AND '{end_date}'"]
+    
+    if selected_pipeline != "Todos os Funis":
         pipeline_id = pipelines_df[pipelines_df['name'] == selected_pipeline]['id'].values[0]
-        where_clause = f"WHERE l.pipeline_id = {pipeline_id} AND DATE(l.created_at) BETWEEN '{start_date}' AND '{end_date}'"
+        where_conditions.append(f"l.pipeline_id = {pipeline_id}")
+        
+    if selected_user != "Todos os Vendedores":
+        user_id = users_df[users_df['name'] == selected_user]['id'].values[0]
+        where_conditions.append(f"l.responsible_user_id = {user_id}")
+        
+    where_clause = "WHERE " + " AND ".join(where_conditions)
 
     leads_query = f"""
         SELECT l.*, u.name as user_name, s.name as status_name, lr.name as loss_reason_name, p.name as pipeline_name
@@ -118,11 +145,14 @@ elif st.session_state["authentication_status"]:
     df_ganhos = df[df['status_name'].str.contains('Ganho|Won', case=False)].copy()
 
     st.subheader("📌 Indicadores de Performance")
-    m1, m2, m3, m4 = st.columns(4)
+    m1, m2, m3, m4, m5 = st.columns(5)
     m1.metric("Total de Leads", f"{len(df):,}".replace(",", "."))
     m2.metric("VGV Potencial", format_currency(df['price'].sum()))
     m3.metric("Faturamento Real", format_currency(df_ganhos['price'].sum()))
     m4.metric("Taxa de Conversão", f"{(len(df_ganhos)/len(df)*100 if len(df)>0 else 0):.1f}%")
+    
+    ticket_medio = df_ganhos['price'].sum() / len(df_ganhos) if len(df_ganhos) > 0 else 0
+    m5.metric("Ticket Médio", format_currency(ticket_medio))
 
     # --- ROW 1: FUNNEL & VENDOR ---
     st.divider()
