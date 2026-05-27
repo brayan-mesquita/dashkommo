@@ -91,6 +91,20 @@ elif st.session_state["authentication_status"]:
     user_options = ["Todos os Vendedores"] + list(users_df['name'])
     selected_user = st.sidebar.selectbox("Selecione o Vendedor", user_options)
 
+    # Filtro de Tags (Multiselect)
+    tags_df = get_data("SELECT tags FROM leads WHERE tags IS NOT NULL AND tags != ''")
+    unique_tags = set()
+    for t_str in tags_df['tags']:
+        try:
+            tags = json.loads(t_str)
+            for tag in tags:
+                if tag:
+                    unique_tags.add(tag)
+        except:
+            continue
+    sorted_tags = sorted(list(unique_tags))
+    selected_tags = st.sidebar.multiselect("Selecione as Tags", sorted_tags)
+
     # Filtro de Data Rápido
     st.sidebar.subheader("Período de Criação")
     date_preset = st.sidebar.selectbox(
@@ -141,6 +155,16 @@ elif st.session_state["authentication_status"]:
     """
     df = get_data(leads_query)
 
+    # Filtrar por Tags se alguma estiver selecionada (Multiselect)
+    if selected_tags:
+        def has_selected_tag(t_str):
+            try:
+                tags = json.loads(t_str) if t_str else []
+                return any(tag in tags for tag in selected_tags)
+            except:
+                return False
+        df = df[df['tags'].apply(has_selected_tag)].copy()
+
     # --- KEY METRICS ---
     df_ganhos = df[df['status_name'].str.contains('Ganho|Won', case=False)].copy()
 
@@ -160,22 +184,28 @@ elif st.session_state["authentication_status"]:
 
     with c1:
         st.subheader("Funil de Vendas (Volume por Etapa)")
-        status_counts = df['status_name'].value_counts().reset_index()
-        status_counts.columns = ['Etapa', 'Quantidade']
-        fig_funnel = px.funnel(status_counts.head(15), x='Quantidade', y='Etapa', color='Etapa')
-        fig_funnel.update_layout(showlegend=False)
-        st.plotly_chart(fig_funnel, use_container_width=True)
+        if not df.empty:
+            status_counts = df['status_name'].value_counts().reset_index()
+            status_counts.columns = ['Etapa', 'Quantidade']
+            fig_funnel = px.funnel(status_counts.head(15), x='Quantidade', y='Etapa', color='Etapa')
+            fig_funnel.update_layout(showlegend=False)
+            st.plotly_chart(fig_funnel, use_container_width=True)
+        else:
+            st.info("Sem dados no funil para as tags/filtros selecionados.")
 
     with c2:
         st.subheader("Faturamento Real por Vendedor")
-        user_won_vgv = df_ganhos.groupby('user_name')['price'].sum().sort_values(ascending=False).reset_index()
-        user_won_vgv['Valor_Formatado'] = user_won_vgv['price'].apply(format_currency)
-        fig_user = px.bar(user_won_vgv, x='user_name', y='price', 
-                          labels={'price': 'Faturamento (R$)', 'user_name': 'Vendedor'}, 
-                          color='user_name',
-                          hover_data={'Valor_Formatado': True, 'price': False})
-        fig_user.update_layout(showlegend=False)
-        st.plotly_chart(fig_user, use_container_width=True)
+        if not df_ganhos.empty:
+            user_won_vgv = df_ganhos.groupby('user_name')['price'].sum().sort_values(ascending=False).reset_index()
+            user_won_vgv['Valor_Formatado'] = user_won_vgv['price'].apply(format_currency)
+            fig_user = px.bar(user_won_vgv, x='user_name', y='price', 
+                              labels={'price': 'Faturamento (R$)', 'user_name': 'Vendedor'}, 
+                              color='user_name',
+                              hover_data={'Valor_Formatado': True, 'price': False})
+            fig_user.update_layout(showlegend=False)
+            st.plotly_chart(fig_user, use_container_width=True)
+        else:
+            st.info("Sem vendas ganhas para as tags/filtros selecionados.")
 
     # --- ROW 2: PIPELINES COMPARISON ---
     if selected_pipeline == "Todos os Funis":
@@ -211,12 +241,15 @@ elif st.session_state["authentication_status"]:
     with c4:
         st.subheader("Entrada de Leads por Dia")
         df_temp = df.copy()
-        df_temp['created_at'] = pd.to_datetime(df_temp['created_at'])
-        daily_leads = df_temp.groupby(df_temp['created_at'].dt.date).size().reset_index(name='leads')
-        daily_leads['Data'] = daily_leads['created_at'].apply(lambda x: x.strftime('%d/%m/%Y'))
-        fig_line = px.line(daily_leads, x='created_at', y='leads', markers=True, 
-                           hover_data={'Data': True, 'created_at': False})
-        st.plotly_chart(fig_line, use_container_width=True)
+        if not df_temp.empty:
+            df_temp['created_at'] = pd.to_datetime(df_temp['created_at'])
+            daily_leads = df_temp.groupby(df_temp['created_at'].dt.date).size().reset_index(name='leads')
+            daily_leads['Data'] = daily_leads['created_at'].apply(lambda x: x.strftime('%d/%m/%Y'))
+            fig_line = px.line(daily_leads, x='created_at', y='leads', markers=True, 
+                               hover_data={'Data': True, 'created_at': False})
+            st.plotly_chart(fig_line, use_container_width=True)
+        else:
+            st.info("Sem dados de leads para as tags/filtros selecionados.")
 
     # --- ROW 4: TAGS ---
     st.divider()
